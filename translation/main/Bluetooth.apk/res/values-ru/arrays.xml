@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup_2">
+        <item>Одна страница на листе</item>
+        <item>Две страницы на листе</item>
+    </string-array>
+    <string-array name="numberup_val_2">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="numberup_4">
+        <item>Одна страница на листе</item>
+        <item>Две страницы на листе</item>
+        <item>Четыре страницы на листе</item>
+    </string-array>
+    <string-array name="numberup_val_4">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="numberup_6">
+        <item>Одна страница на листе</item>
+        <item>Две страницы на листе</item>
+        <item>Четыре страницы на листе</item>
+        <item>Шесть страниц на листе</item>
+    </string-array>
+    <string-array name="numberup_val_6">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="numberup_9">
+        <item>Одна страница на листе</item>
+        <item>Две страницы на листе</item>
+        <item>Четыре страницы на листе</item>
+        <item>Шесть страниц на листе</item>
+        <item>Девять страниц на листе</item>
+    </string-array>
+    <string-array name="numberup_val_9">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="numberup_16">
+        <item>Одна страница на листе</item>
+        <item>Две страницы на листе</item>
+        <item>Четыре страницы на листе</item>
+        <item>Шесть страниц на листе</item>
+        <item>Девять страниц на листе</item>
+        <item>Шестьнадцать страниц на листе</item>
+    </string-array>
+    <string-array name="numberup_val_16">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>9</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Портрет</item>
+        <item>Альбом</item>
+        <item>Перевернуть альбом</item>
+        <item>Перевернуть портрет</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>portrait</item>
+        <item>landscape</item>
+        <item>reverse-landscape</item>
+        <item>reverse-portrait</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Односторонняя</item>
+        <item>Двусторонняя через длинный край</item>
+        <item>Двусторонняя через короткий край</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>one-sided</item>
+        <item>two-sided-long-edge</item>
+        <item>two-sided-short-edge</item>
+    </string-array>
+    <string-array name="quality">
+        <item>Проект</item>
+        <item>Обычный</item>
+        <item>Большой</item>
+    </string-array>
+    <string-array name="quality_val">
+        <item>draft</item>
+        <item>normal</item>
+        <item>high</item>
+    </string-array>
+</resources>

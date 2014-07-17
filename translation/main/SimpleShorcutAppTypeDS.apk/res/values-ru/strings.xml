@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Ярлыки на упрощ. главном экране</string>
+    <string name="app_name">Ярлыки</string>
+    <string name="add_menu">"Доб.
+ярлык"</string>
+    <string name="add_title">Доб. ярлык</string>
+    <string name="str_edit">Измен.</string>
+    <string name="str_done">Готово</string>
+    <string name="simple_mode">Стандартный режим</string>
+    <string name="page1">Стр. 1</string>
+    <string name="page2">Стр. 2</string>
+    <string name="invalid_app">Запустить загрузку недопустимого приложения</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_screen_looping_items">
+        <item>Устан. на обоих экранах</item>
+        <item>Устан. только на глав. экране</item>
+        <item>Устан. только на экране прилож.</item>
+    </string-array>
+    <string-array name="home_screen_grid_style_items">
+        <item>Макет 4X4</item>
+        <item>Макет 5X5</item>
+    </string-array>
+</resources>

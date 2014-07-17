@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="link_popup_menu_web_url">
+        <item>Save URL</item>
+        <item>Connect URL</item>
+    </string-array>
+    <string-array name="link_popup_menu_email">
+        <item>Save email</item>
+        <item>Send email</item>
+    </string-array>
+    <string-array name="link_popup_menu_phone">
+        <item>Call</item>
+        <item>Send message</item>
+        <item>Save contact</item>
+    </string-array>
+    <string-array name="link_popup_menu_phone_all">
+        <item>Call</item>
+        <item>Video call</item>
+        <item>Send message</item>
+        <item>Save contact</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_simplehome_calendar">SimpleHome Calendar</string>
+    <string name="no_event_today">Нет событий.</string>
+    <string name="no_title">(Нет названия)</string>
+    <string name="noon">полдень</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Контакты на USIM-карте</string>
+    <string name="usim_default_group">Группа по умолчанию</string>
+    <string name="usim_no_name">Без имени</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="count_of_songs">
+        <item quantity="other">Композ.: %1d</item>
+        <item quantity="zero">Композ.: %1d</item>
+        <item quantity="one">Композ.: %1d</item>
+    </plurals>
+    <plurals name="count_of_space_songs">
+        <item quantity="other">%1d Songs</item>
+        <item quantity="zero">%1d Song</item>
+        <item quantity="one">%1d Song</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+</resources>

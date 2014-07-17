@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Служба Miracast</string>
+    <string name="noti_wfd_title">Miracast</string>
+    <string name="noti_wfd_desc">Предоставление доступа к экрану</string>
+    <string name="stop">Заверш. доступ к экрану</string>
+    <string name="pf_sound_transmission">Параметры воспроизв. звуков</string>
+    <string name="noti_title">Указатель типа мыши</string>
+    <string name="noti_desc">"Управление на экране с пом. 
+указателя типа мыши при предоставл. доступа к экрану."</string>
+    <string name="noti_btn_on">Остановить</string>
+    <string name="noti_btn_off">Запустить</string>
+    <string name="note_btn_tips">Советы</string>
+    <string name="toast_pause">Указатель типа мыши отключен из-за запроса, поступившего от другой функции.</string>
+    <string name="toast_call_start">В результате ответа на вызов устройство вывода звука, заданное в параметрах Miracast, изменено на Мое устройство.</string>
+    <string name="toast_call_end">В результате завершения вызова устройство вывода звука, заданное в параметрах Miracast, изменено на подключенное устройство.</string>
+    <string name="toast_sound_mine">Устройство вывода звука, заданное в параметрах Miracast, изменено на Мое устройство.</string>
+    <string name="toast_sound_other">Устройство вывода звука, заданное в параметрах Miracast, изменено на подключенное устройство.</string>
+    <string name="toast_headset">К устройству подключена гарнитура. Чтобы изменить устройство вывода звука, отключите гарнитуру.</string>
+    <string name="toast_headset_off">Можно изменить устройство вывода звука в меню Параметры > Параметры воспроизв. звуков.</string>
+    <string name="help_btn_next">Далее</string>
+    <string name="help_btn_prev">Назад</string>
+    <string name="help_btn_end">OK</string>
+    <string name="help_title_1">Запустить указатель типа мыши</string>
+    <string name="help_desc_1_1">Управление экраном с помощью указателя типа мыши при общем доступе к экрану с помощью Miracast.</string>
+    <string name="help_desc_1_2">Данный указатель аналогичен указателю, используемому в переносных ПК, и особенно удобен при просмотре веб-сайтов и документов. Выполните перетаскивание в любое место на экране для перемещения указателя и нажмите на экран для выбора элемента.</string>
+    <string name="help_desc_1_3">Перетащите в любое место на экране для перемещения указателя и нажмите на экран для выбора элемента.</string>
+    <string name="help_title_2">"Управление экраном 
+двумя пальцами"</string>
+    <string name="help_desc_2">Перетащите два пальца для перемещения экрана.</string>
+    <string name="help_title_3">Отключение указателя типа мыши</string>
+    <string name="help_desc_3">Перещите верхнюю часть двумя пальцами и отключите функцию указателя типа мыши в меню Основные параметры.</string>
+</resources>

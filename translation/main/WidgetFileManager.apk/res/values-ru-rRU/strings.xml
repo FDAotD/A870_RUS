@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="app_name">Диспетчер файлов</string>
+    <string name="widget_title">Избранное</string>
+    <string name="path_not_found">Путь не найден</string>
+    <string name="no_favorite_folders">Нет избранных папок</string>
+    <string name="cannot_find_folder_favorites">"Не удалось найти папку '%s'.
+Удаление папки из избранного."</string>
+</resources>

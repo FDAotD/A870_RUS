@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_device_name">Android</string>
+    <string name="welcome_message">Выберите язык</string>
+    <string name="setup_wizard_title">Мастер настройки</string>
+    <string name="next_button_label">Далее</string>
+    <string name="finish_button_label">Закрыть</string>
+    <string name="back_button_label">Назад</string>
+    <string name="skip_button_label">Пропустить</string>
+    <string name="down_button_label">Ещё</string>
+    <string name="cancel_button_label">Отмена</string>
+    <string name="restart_button_label">Перезапустить</string>
+    <string name="try_again_button_label">Повторить</string>
+    <string name="close_button_label">Закрыть</string>
+    <string name="google_legal_title">Правовая информация Google</string>
+    <string name="url_load_unsuccessful_message">Телефон не подключен к мобильному каналу передачи данных. Чтобы получить дополнительную информацию, откройте страницу %s в веб-браузере.</string>
+    <string name="start">Начать</string>
+    <string name="wait_msg">Подождите...</string>
+    <string name="activation_title">Активация мобильной передачи данных</string>
+    <string name="activation_title_searching">Поиск...</string>
+    <string name="activation_title_activating">Активация...</string>
+    <string name="activation_default_network_name">моб. сеть</string>
+    <string name="activation_network_bars_template">Сила сигнала (число делений): %d</string>
+    <string name="activation_text">Нажмите <b>Активировать</b>" для активации мобильной передачи данных (это займет несколько секунд).
+
+Или нажмите "<b>Пропустить</b>, чтобы настроить устройство Android через Wi-Fi.</string>
+    <string name="activation_text_standalone">Нажмите кнопку <b>Активировать</b> для активации мобильной передачи данных (это займет несколько секунд).</string>
+    <string name="activation_skip_confirmation">"Пока мобильный канал передачи данных не активирован, большинство функций телефона будут недоступны.
+
+Вы можете пропустить этот этап и вернуться к нему позже в меню \"Настройки\"."</string>
+    <string name="activation_continue_skip_label">Продолжить</string>
+    <string name="activation_button_label">Активировать</string>
+    <string name="activation_progress_before_connect">Чтобы завершить настройку, используя сеть Wi-Fi, нажмите <b>Пропустить</b>.</string>
+    <string name="activation_progress">Активация займет несколько минут. Нажмите <b>Далее</b>, чтобы завершить настройку через Wi-Fi.</string>
+    <string name="activation_progress_gen">Активация может занять несколько минут.</string>
+    <string name="activation_progress_before_connect_standalone">Активация может занять несколько минут.</string>
+    <string name="activation_progress_standalone">Активация может занять несколько минут.</string>
+    <string name="activation_success_title">Активация завершена</string>
+    <string name="activation_success_text">Чтобы продолжить настройку, нажмите <b>Далее</b>.</string>
+    <string name="activation_success_text_gen">Чтобы завершить активацию, перезапустите устройство.</string>
+    <string name="activation_success_text_standalone">Нажмите <b>Далее</b>" для продолжения.
+
+Активация прошла успешно, но мобильная сеть для передачи данных станет доступна только через несколько минут."</string>
+    <string name="activation_failure_title">Не удалось выполнить активацию</string>
+    <string name="activation_failure_text">"Не удалось активировать мобильный канал передачи данных.
+
+Вы можете пропустить этот этап и вернуться к нему позже в меню \"Настройки\". До активации большинство функций телефона будут недоступны."</string>
+    <string name="activation_failure_text_gen">Не удалось активировать мобильную передачу данных из-за временной неполадки. Попробуйте перезапустить телефон.</string>
+    <string name="activation_failure_text_standalone">Не удалось активировать мобильный канал передачи данных. Чтобы повторить попытку активации, нажмите <b>Повторить попытку</b>".
+
+Активировать мобильный канал передачи данных можно позже в меню "<b>Настройки > Беспроводные сети > Мобильная сеть</b>.</string>
+    <string name="activation_cancel_title">Отменено</string>
+    <string name="activation_cancel_text">Отмена активации... Это может занять 5–10 секунд.</string>
+    <string name="activation_canceled_title">Активация отменена</string>
+    <string name="activation_canceled_text">Отменить активацию? Мобильный канал передачи данных необходимо активировать, чтобы использовать его для доступа к Интернету. Чтобы повторить попытку активации, нажмите <b>Назад</b>".
+
+Чтобы завершить настройку, используя сеть Wi-Fi, нажмите "<b>Далее</b>".
+
+Активировать мобильный канал передачи данных можно позже в меню "<b>Настройки > Беспроводные сети > Мобильная сеть</b>.</string>
+    <string name="activation_canceled_text_standalone">"Активация отменена.
+
+Активировать мобильный канал передачи данных можно позже в меню "<b>Настройки > Беспроводные сети > Мобильная сеть</b>.</string>
+    <string name="activation_spc_failure_text">Произошла ошибка. Чтобы попытаться выполнить активацию еще раз, нужно перезагрузить телефон. Он будет автоматически отключен через 60 секунд, но вы можете нажать кнопку <b>Выключить сейчас</b>".
+
+После выключения устройства включите его снова с помощью кнопки питания. Активация начнется автоматически."</string>
+    <string name="shutdown_button_label">Выключить сейчас</string>
+    <string name="reboot_button_label">Перезапустить</string>
+    <string name="notification_update_title">Необходимо обновить аккаунт</string>
+    <string name="notification_update_message">Нажмите здесь, чтобы снова запустить мастер настройки.</string>
+    <string name="date_time_setup_title">Дата и время</string>
+    <string name="date_time_current_date">Текущая дата</string>
+    <string name="date_time_current_time">Текущее время</string>
+    <string name="location_sharing_title">Геопозиционирование Google</string>
+    <string name="location_sharing_message">Определять местоположение с помощью Wi-Fi и мобильных сетей</string>
+    <string name="location_sharing_message_wifi_only">Определять местоположение с помощью Wi-Fi</string>
+    <string name="agree_location_sharing">Разрешить отправлять и сохранять на устройстве анонимные данные о местоположении, а также позволить приложениям определять его с помощью службы геопозиционирования Google</string>
+    <string name="google_location_access_message">Разрешить Google использовать данные о местоположении</string>
+    <string name="agree_google_location_access">Разрешить использовать данные GPS и службы геопозиционирования Google, даже когда приложения Google не активны</string>
+    <string name="change_options_message">Эти параметры можно изменить в настройках.</string>
+    <string name="tos_title">Службы Google</string>
+    <string name="tos_agreement_text">"Вы соглашаетесь с тем, что телефон может получать и устанавливать обновления от Google.
+
+Использование телефона подпадает под политику конфиденциальности и другие условия. "<annotation id="learn_more">Подробнее...</annotation></string>
+    <string name="setup_complete_title">Настройка завершена</string>
+    <string name="setup_complete_message">Телефон настроен и готов к использованию.</string>
+    <string name="backup_assistant_prompt">Используйте Verizon Backup Assistant для восстановления контактов с телефона Verizon.</string>
+    <string name="prepay_setup_title">Настройка передачи данных</string>
+    <string name="prepay_setup_message">Настроить беспроводной канал передачи данных? Это можно сделать позже в меню \"Настройки\". При использовании этой услуги ваш оператор может взимать плату за передачу данных.</string>
+    <string name="prepay_agree_button_label">Зарегистрироваться</string>
+    <string name="prepay_disagree_button_label">Нет, спасибо</string>
+    <string name="sim_missing_title">Вставьте SIM-карту</string>
+    <string name="sim_missing_text">См. в инструкциях к телефону раздел по использованию SIM-карты.</string>
+    <string name="walled_garden_title">Подключение…</string>
+    <string name="walled_garden_check_text">Телефон подключен к сети Wi-Fi.</string>
+    <string name="continue_for_a11y">Чтобы включить режим специальных возможностей, удерживайте палец на экране еще %d секунд.</string>
+    <string name="canceled_a11y">Режим специальных возможностей отключен.</string>
+    <string name="enabled_a11y">Режим специальных возможностей включен.</string>
+    <string name="emergency_dial">Экстренный вызов</string>
+</resources>

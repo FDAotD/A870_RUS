@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Окно состояния вызова</string>
+    <string name="pcu_aot_call">Текущий вызов</string>
+    <string name="pcu_in_call">Соеденить</string>
+    <string name="pcu_end_call">Завершить</string>
+    <string name="pcu_end_swap">Переключить</string>
+    <string name="pcu_onHold">Удержание</string>
+    <string name="pcu_unknown">Неизвестный</string>
+    <string name="pcu_call_ended">Вызов завершен</string>
+    <string name="pcu_call_dialing">Набор номера</string>
+    <string name="pcu_call_alerting">Подключение</string>
+</resources>

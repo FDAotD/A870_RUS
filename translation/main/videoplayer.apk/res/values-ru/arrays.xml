@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_arrange_dialog">
+        <item>Сортир. по названию</item>
+        <item>Сортир. по дате</item>
+        <item>Сортир. по размеру</item>
+    </string-array>
+    <string-array name="items_arrange_toast">
+        <item>Сортир. по названию (по возраст.)</item>
+        <item>Сортир. по дате (по убыв.)</item>
+        <item>Сортир. по размере (по возраст.)</item>
+        <item>Сортир. по названию (по убыв.)</item>
+        <item>Сортир. по дате (по возраст.)</item>
+        <item>Сортир. по размеру (по убыв.)</item>
+    </string-array>
+    <string-array name="items_file_list_quick_dialog">
+        <item>Удалить</item>
+        <item>Отправ.</item>
+        <item>Media Link</item>
+        <item>Поиск</item>
+        <item>Свойства</item>
+    </string-array>
+    <string-array name="items_folder_list_quick_dialog">
+        <item>Воспр.</item>
+        <item>Удалить</item>
+        <item>Отправ.</item>
+        <item>Media Link</item>
+        <item>Свойства</item>
+    </string-array>
+    <string-array name="repeat_mode">
+        <item>Выкл.</item>
+        <item>Один</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="preset_mode">
+        <item>Экшн &amp;amp; приключения</item>
+        <item>Фантастика &amp;amp; фэнтези</item>
+        <item>Военные</item>
+        <item>Ужасы &amp;amp; триллеры</item>
+        <item>Мюзиклы</item>
+    </string-array>
+    <string-array name="caption_font_size">
+        <item>Маленький</item>
+        <item>Стандартный</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="tablet_repeat_mode">
+        <item>Выкл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="caption_font_type_array">
+        <item>По умолчанию</item>
+        <item>Gothic</item>
+        <item>Голубой</item>
+        <item>Хорошие манеры</item>
+        <item>Гора Намсан (Сеул)</item>
+    </string-array>
+    <string-array name="new_caption_font_type_array">
+        <item>Идентич. параметрам системы</item>
+        <item>VEGA</item>
+        <item>Голубой</item>
+        <item>Хорошие манеры</item>
+        <item>Гора Намсан (Сеул)</item>
+    </string-array>
+    <string-array name="caption_japanese_font_type_array">
+        <item>Roboto</item>
+        <item>Morisawa Shin Go R</item>
+        <item>TypeBank UD Mincho M</item>
+    </string-array>
+    <string-array name="items_view_option_dialog">
+        <item>Файлы</item>
+        <item>Папки</item>
+    </string-array>
+</resources>

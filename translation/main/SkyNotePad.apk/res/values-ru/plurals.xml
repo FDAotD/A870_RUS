@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_messages">
+        <item quantity="other">Перемещение заметок</item>
+        <item quantity="one">Перемещение заметки</item>
+    </plurals>
+    <plurals name="selected_message_count">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+    </plurals>
+    <plurals name="delete_confirm">
+        <item quantity="other">Удалено заметок: %d</item>
+        <item quantity="one">Удалено заметок: %d</item>
+    </plurals>
+</resources>

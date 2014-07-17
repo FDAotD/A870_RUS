@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DirectDial</string>
+    <string name="title">Быстрый набор</string>
+    <string name="title_add">Добавить</string>
+    <string name="title_edit">Измен.</string>
+    <string name="title_edit_done">Выполнено</string>
+    <string name="msg_loading">Загрузка...</string>
+    <string name="add_create_header">Добавить быстрый набор</string>
+    <string name="add_contact">Добавить из контактов</string>
+    <string name="create_contact">Создать новый контакт</string>
+    <string name="duplicate_number">Номер для набора существует в [%s]</string>
+    <string name="no_number">Невозможно запустить – номер телефона контакта не сохранен</string>
+    <string name="msg_saved">Сохранено</string>
+    <string name="msg_error">Не удалось открыть контакты</string>
+    <string name="selector_header">Выберите номер</string>
+    <string name="type_home">Домашний</string>
+    <string name="type_mobile">Мобильный</string>
+    <string name="type_work">Рабочий</string>
+    <string name="type_work_mobile">Рабочий мобильный</string>
+    <string name="type_fax_work">Рабочий факс</string>
+    <string name="type_fax_home">Домашний факс</string>
+    <string name="type_pager">Пейджер</string>
+    <string name="type_custom">Заданный</string>
+    <string name="type_others">Другой</string>
+    <string name="type_main">Основной</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Руководство по распознаванию движения</string>
+    <string name="hand_gesture_title">Справка по распознаванию жестов</string>
+    <string name="gaze_title">Справка по распознаванию лица</string>
+    <string name="motion_title">Справка по перемещению</string>
+    <string name="next">Следующая</string>
+    <string name="prev">Назад</string>
+    <string name="done">Готово</string>
+</resources>

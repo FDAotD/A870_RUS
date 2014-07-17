@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="action_local_directions_travel_mode">
+        <item>На автомобиле</item>
+        <item>Пешком</item>
+        <item>На общественном транспорте</item>
+        <item>На велосипеде</item>
+    </string-array>
+    <string-array name="action_local_navigate_travel_mode">
+        <item>На автомобиле</item>
+        <item>Пешком</item>
+    </string-array>
+    <string-array name="location_history_reminder_title_with_month">
+        <item>%1$s в январе</item>
+        <item>%1$s в феврале</item>
+        <item>%1$s в марте</item>
+        <item>%1$s в апреле</item>
+        <item>%1$s в мае</item>
+        <item>%1$s в июне</item>
+        <item>%1$s в июле</item>
+        <item>%1$s в августе</item>
+        <item>%1$s в сентябре</item>
+        <item>%1$s в октябре</item>
+        <item>%1$s в ноябре</item>
+        <item>%1$s в декабре</item>
+    </string-array>
+    <string-array name="location_history_reminder_months">
+        <item>январе</item>
+        <item>феврале</item>
+        <item>марте</item>
+        <item>апреле</item>
+        <item>мае</item>
+        <item>июне</item>
+        <item>июле</item>
+        <item>августе</item>
+        <item>сентябре</item>
+        <item>октябре</item>
+        <item>ноябре</item>
+        <item>декабре</item>
+    </string-array>
+    <string-array name="location_history_reminder_diff">
+        <item>На %1$s %2$s, чем в январе</item>
+        <item>На %1$s %2$s, чем в феврале</item>
+        <item>На %1$s %2$s, чем в марте</item>
+        <item>На %1$s %2$s, чем в апреле</item>
+        <item>На %1$s %2$s, чем в мае</item>
+        <item>На %1$s %2$s, чем в июне</item>
+        <item>На %1$s %2$s, чем в июле</item>
+        <item>На %1$s %2$s, чем в августе</item>
+        <item>На %1$s %2$s, чем в сентябре</item>
+        <item>На %1$s %2$s, чем в октябре</item>
+        <item>На %1$s %2$s, чем в ноябре</item>
+        <item>На %1$s %2$s, чем в декабре</item>
+    </string-array>
+    <string-array name="safe_search_entries">
+        <item>Строгая фильтрация</item>
+        <item>Умеренная фильтрация</item>
+        <item>Без фильтрации</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>П</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>И</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>Н</item>
+        <item>U</item>
+        <item>V</item>
+        <item>В</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>африкаанс (ЮАР)</item>
+        <item>арабский (Алжир)</item>
+        <item>арабский (Египет)</item>
+        <item>арабский (Ирак)</item>
+        <item>арабский (Израиль)</item>
+        <item>арабский (Иордания)</item>
+        <item>арабский (Кувейт)</item>
+        <item>арабский (Ливан)</item>
+        <item>арабский (Ливия)</item>
+        <item>арабский (Марокко)</item>
+        <item>арабский (Катар)</item>
+        <item>арабский (Саудовская Аравия)</item>
+        <item>арабский (Судан)</item>
+        <item>арабский (Сирия)</item>
+        <item>арабский (Тунис)</item>
+        <item>арабский (ОАЭ)</item>
+        <item>арабский (Йемен)</item>
+        <item>белорусский (Белоруссия)</item>
+        <item>бенгальский (Бангладеш)</item>
+        <item>болгарский (Болгария)</item>
+        <item>каталанский (Испания)</item>
+        <item>китайский, мандаринский (Китай, упрощенный)</item>
+        <item>китайский, мандаринский (Гонконг, упрощенный)</item>
+        <item>китайский, мандаринский (Гонконг, традиционный)</item>
+        <item>китайский, мандаринский (Сингапур, упрощенный)</item>
+        <item>китайский, мандаринский (Тайвань, упрощенный)</item>
+        <item>китайский, мандаринский (Тайвань, традиционный)</item>
+        <item>китайский, кантонский (Китай, упрощенный)</item>
+        <item>китайский, кантонский (Гонконг, традиционный)</item>
+        <item>хорватский (Хорватия)</item>
+        <item>чешский (Чешская Республика)</item>
+        <item>датский (Дания)</item>
+        <item>нидерландский (Бельгия)</item>
+        <item>нидерландский (Нидерланды)</item>
+        <item>английский (универсальный)</item>
+        <item>английский (Австралия)</item>
+        <item>английский (Бангладеш)</item>
+        <item>английский (Канада)</item>
+        <item>английский (Гонконг)</item>
+        <item>английский (Индия)</item>
+        <item>английский (Ирландия)</item>
+        <item>английский (Кения)</item>
+        <item>английский (Малайзия)</item>
+        <item>английский (Новая Зеландия)</item>
+        <item>английский (Нигерия)</item>
+        <item>английский (Пакистан)</item>
+        <item>английский (Филиппины)</item>
+        <item>английский (Сингапур)</item>
+        <item>английский (ЮАР)</item>
+        <item>английский (Судан)</item>
+        <item>английский (Танзания)</item>
+        <item>английский (Уганда)</item>
+        <item>английский (Великобритания)</item>
+        <item>английский (США)</item>
+        <item>эстонский (Эстония)</item>
+        <item>филиппинский (Филиппины)</item>
+        <item>финский (Финляндия)</item>
+        <item>французский (Бельгия)</item>
+        <item>французский (Канада)</item>
+        <item>французский (Франция)</item>
+        <item>французский (Швейцария)</item>
+        <item>галисийский (Испания)</item>
+        <item>немецкий (Австрия)</item>
+        <item>немецкий (Германия)</item>
+        <item>немецкий (Швейцария)</item>
+        <item>немецкий (Лихтенштейн)</item>
+        <item>греческий (Греция)</item>
+        <item>иврит (Израиль)</item>
+        <item>хинди (Индия)</item>
+        <item>венгерский (Венгрия)</item>
+        <item>исландский (Исландия)</item>
+        <item>индонезийский (Индонезия)</item>
+        <item>ирландский (Ирландия)</item>
+        <item>ндебеле (ЮАР)</item>
+        <item>коса (ЮАР)</item>
+        <item>зулу (ЮАР)</item>
+        <item>итальянский (Италия)</item>
+        <item>итальянский (Швейцария)</item>
+        <item>японский (Япония)</item>
+        <item>корейский (Республика Корея)</item>
+        <item>латышский (Латвия)</item>
+        <item>литовский (Литва)</item>
+        <item>малайский (Малайзия)</item>
+        <item>малайский (Сингапур)</item>
+        <item>норвежский, букмол (Норвегия)</item>
+        <item>норвежский, нюнорск (Норвегия)</item>
+        <item>фарси (Иран)</item>
+        <item>польский (Польша)</item>
+        <item>португальский (Ангола)</item>
+        <item>португальский (Бразилия)</item>
+        <item>португальский (Португалия)</item>
+        <item>румынский (Румыния)</item>
+        <item>русский (Белоруссия)</item>
+        <item>русский (Россия)</item>
+        <item>северный сото (ЮАР)</item>
+        <item>сербский (Сербия, кириллица)</item>
+        <item>сесото (ЮАР)</item>
+        <item>тсвана (ЮАР)</item>
+        <item>свази (ЮАР)</item>
+        <item>словацкий (Словакия)</item>
+        <item>словенский (Словения)</item>
+        <item>испанский (Аргентина)</item>
+        <item>испанский (Боливия)</item>
+        <item>испанский (Чили)</item>
+        <item>испанский (Колумбия)</item>
+        <item>испанский (Коста-Рика)</item>
+        <item>испанский (Куба)</item>
+        <item>испанский (Доминиканская Республика)</item>
+        <item>испанский (Эквадор)</item>
+        <item>испанский (Сальвадор)</item>
+        <item>испанский (Гватемала)</item>
+        <item>испанский (Гондурас)</item>
+        <item>испанский (Мексика)</item>
+        <item>испанский (Никарагуа)</item>
+        <item>испанский (Панама)</item>
+        <item>испанский (Парагвай)</item>
+        <item>испанский (Перу)</item>
+        <item>испанский (Пуэрто-Рико)</item>
+        <item>испанский (Испания)</item>
+        <item>испанский (США)</item>
+        <item>испанский (Уругвай)</item>
+        <item>испанский (Венесуэла)</item>
+        <item>суахили (Кения)</item>
+        <item>суахили (Танзания)</item>
+        <item>суахили (Уганда)</item>
+        <item>шведский (Финляндия)</item>
+        <item>шведский (Швеция)</item>
+        <item>тайский (Таиланд)</item>
+        <item>венда (ЮАР)</item>
+        <item>турецкий (Турция)</item>
+        <item>украинский (Украина)</item>
+        <item>урду (Пакистан)</item>
+        <item>вьетнамский (Вьетнам)</item>
+        <item>тсонга (ЮАР)</item>
+    </string-array>
+    <string-array name="prefEntries_ttsMode">
+        <item>Всегда</item>
+        <item>Только важное</item>
+        <item>Только для гарнитуры</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Сегодня</item>
+        <item>Завтра</item>
+        <item>На выходных</item>
+        <item>Другая дата</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Утро</item>
+        <item>День</item>
+        <item>Вечер</item>
+        <item>Ночь</item>
+        <item>Весь день</item>
+        <item>Другое время</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Прибытие</item>
+        <item>Отъезд</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Дом</item>
+        <item>Работа</item>
+        <item>Другое место</item>
+    </string-array>
+</resources>

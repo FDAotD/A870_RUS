@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">V Capture</string>
+    <string name="pen">Перо</string>
+    <string name="penopt">Параметры пера</string>
+    <string name="background">Фон</string>
+    <string name="size">Просмотр</string>
+    <string name="kind">Выбрать</string>
+    <string name="color">Выбрать цвет</string>
+    <string name="file_save">Сохранить файл в папке /sdcard/Vcapture</string>
+    <string name="file_savefail">Не удалось сохранить</string>
+    <string name="save">Сохранить</string>
+    <string name="saved">Сохранено</string>
+    <string name="save_q">Сохранить?</string>
+    <string name="no_sdcard">Нет карты памяти SD. Вставьте карту памяти SD.</string>
+    <string name="savefailed">Не удалось сохранить</string>
+    <string name="storageshortage">Недостаточно места в памяти</string>
+    <string name="sendtitle">Отправ.</string>
+    <string name="album">Альбом</string>
+    <string name="error">Ошибка</string>
+    <string name="clear_all">Очистить все</string>
+    <string name="not_gallery">Невозможно открыть галерею.</string>
+    <string name="not_image">Не удалось загрузить изображение.</string>
+    <string name="shake_clear">Удаление встряхиванием</string>
+    <string name="shake_info">Встряхните телефон, чтобы удалить этот рисунок.</string>
+    <string name="setting">Настройка</string>
+    <string name="contact">Фотография контакта</string>
+    <string name="crop_fail">Не удалось сохранить</string>
+    <string name="crop_min_fail">Не удалось сохранить</string>
+    <string name="crop_area_fail">Не удалось обрезать область</string>
+    <string name="bgset">Выбор фона</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="cancel">Отмена</string>
+    <string name="crop_pic">Обрезать</string>
+    <string name="crop">Обрезать</string>
+    <string name="done">Готово</string>
+    <string name="cancel_save">Сохранить?</string>
+    <string name="edit_cancel">Отмена изменений</string>
+    <string name="loading">Подождите завершения загрузки...</string>
+    <string name="thick">Толстая</string>
+    <string name="trans">Прозрач.</string>
+    <string name="color_default">По умолчанию</string>
+    <string name="kind_brush">Мягкая кисть</string>
+</resources>

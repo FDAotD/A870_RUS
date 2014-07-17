@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Beam</string>
+    <string name="title_suffix_bt">Bluetooth</string>
+    <string name="title_suffix_wfd">Wi-Fi Direct</string>
+    <string name="title_sending">Отправка</string>
+    <string name="title_send_complete">Отправка выполнена</string>
+    <string name="title_send_canceled">Отправка отменена</string>
+    <string name="file_sending">Отправка файлов.</string>
+    <string name="file_send_complete">Отправка файлов выполнена.</string>
+    <string name="file_send_canceled">Отправка файлов отменена.</string>
+    <string name="err_message_send">Не удалось отправить файл.</string>
+    <string name="complete_unit_transfer">передача файлов выполнена</string>
+    <string name="failed_unit_transfer">сбой передачи файлов</string>
+    <string name="file_send_failed">Сбой отправки файлов</string>
+    <string name="file_receive_failed">Сбой получения файлов</string>
+    <string name="title_receiving">Получение</string>
+    <string name="title_receive_complete">Получение выполнено</string>
+    <string name="title_receive_canceled">Получение отменено</string>
+    <string name="file_receiving">Получение файлов.</string>
+    <string name="file_receive_complete">Получение файлов выполнено.</string>
+    <string name="file_receive_canceled">Получение файлов отменено.</string>
+    <string name="err_message_receive">Сбой получения файлов.</string>
+    <string name="cancel">Отмена</string>
+    <string name="play">Воспроизвести</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="hide">Скрыть</string>
+    <string name="shareComplete">Smart Beam :</string>
+    <string name="sended">Отправлено</string>
+    <string name="received">Получено</string>
+    <string name="pre_progress_text">Подготовка к передаче файлов.</string>
+    <string name="pre_progress_receivtext">Подготовка к получению файлов.</string>
+    <string name="connection_failed">Сбой подключения.</string>
+    <string name="end_smart_beam">Wi-Fi Direct выключено. Выйдите из Smart-Beam.</string>
+    <string name="not_enough_internal_memory">Недостаточно свободного места во внутренней памяти.</string>
+    <string name="not_enough_internal_memory_target">Недостаточно свободного места во внутренней памяти целевого телефона.</string>
+    <string name="already_connected">Отключите существующий Wi-Fi Direct и попытайтесь подключиться к другому устройству.</string>
+    <string name="already_progressing_send">Уже выполняется отправка на другое устройство.</string>
+    <string name="already_progressing_receive">Уже выполняется получение другим устройством.</string>
+    <string name="already_connecting">Уже выполняется подключение к другому устройству.</string>
+    <string name="size_unit_kib">KB</string>
+    <string name="size_unit_mib">MB</string>
+    <string name="android_beam_settings_title">Smart Beam</string>
+    <string name="android_beam_on_summary">NFC и Android Beam включены соответственно.</string>
+    <string name="android_beam_off_summary">Выкл</string>
+    <string name="android_beam_disabled_summary">Когда Smart Beam выключен, Android Beam также будет выключен.</string>
+    <string name="android_beam_label">Smart Beam</string>
+    <string name="android_beam_explained">"*Если Smart Beam включен, можно передавать файлы на другие устройства NFC и Wi-Fi Direct.
+
+
+
+**Передаваемое содержимое: веб-страницы, You Tube, контакты, расписание из календаря, файлы изображений/видео, музыкальные файлы и др.
+
+
+
+*Находясь на каждом экране содержимого просто поднесите устройства друг к другу (обычно задними сторонами), после чего появятся указания. Нажмите экран, после чего его содержимое будет передано на соответствующее устройство."</string>
+    <string name="android_beam_off_rwp2p_off">Android Beam выключен соответственно.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="bt_not_ready">Bluetooth не готово.</string>
+    <string name="wf_diconnected">WiFi-Direct отключено.</string>
+    <string name="connecting">Подключение</string>
+    <string name="close">Закрыть</string>
+    <string name="activity_not_found">Не удается найти приложение, поддерживающее Smart Beam.</string>
+    <string name="file_not_found">Не удается открыть файл.</string>
+    <string name="successful">успешно</string>
+    <string name="failed">сбой</string>
+    <string name="receive_complete">" Получение выполнено"</string>
+    <string name="androidbeam_noti_transfer_x">Это содержимое не может быть передано</string>
+    <string name="check_progress">Проверьте ход выполнения на панели уведомлений</string>
+    <string name="file_sent_l">Файл отправлен</string>
+    <string name="file_received_l">Файл получен</string>
+    <string name="file_sent_s">файл отправлен</string>
+    <string name="file_received_s">файл получен</string>
+    <string name="smartbeam_file">smartbeam_file</string>
+    <string name="save_to_sdcard">Сохранить на карте памяти SD.</string>
+</resources>

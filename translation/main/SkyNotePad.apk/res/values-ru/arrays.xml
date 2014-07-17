@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="note_longclick">
+        <item>Изменить</item>
+        <item>Отправ.</item>
+        <item>Переместить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="sort_items">
+        <item>Дата (по возрастанию)</item>
+        <item>Дата (по убыванию)</item>
+        <item>Алфавит (по возрастанию)</item>
+        <item>Алфавит (по убыванию)</item>
+    </string-array>
+    <string-array name="sort_rule">
+        <item>По возрастанию</item>
+        <item>По убыванию</item>
+    </string-array>
+    <string-array name="link_popup_menu_web_url">
+        <item>Save URL</item>
+        <item>Connect URL</item>
+    </string-array>
+    <string-array name="link_popup_menu_email">
+        <item>Save email</item>
+        <item>Send email</item>
+    </string-array>
+    <string-array name="link_popup_menu_phone">
+        <item>Call</item>
+        <item>Send message</item>
+        <item>Save contact</item>
+    </string-array>
+    <string-array name="link_popup_menu_phone_all">
+        <item>Call</item>
+        <item>Video call</item>
+        <item>Send message</item>
+        <item>Save contact</item>
+    </string-array>
+    <string-array name="language_item">
+        <item>Корейский</item>
+        <item>Английский</item>
+    </string-array>
+</resources>

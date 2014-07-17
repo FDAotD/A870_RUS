@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Главный</item>
+        <item>Поиск</item>
+        <item>Браузер</item>
+        <item>Эл. почта</item>
+        <item>Мультимедиа</item>
+        <item>Набор</item>
+        <item>и т. д.</item>
+    </string-array>
+</resources>

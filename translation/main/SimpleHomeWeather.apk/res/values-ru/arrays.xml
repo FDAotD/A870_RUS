@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="month_item">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="weatherConditionText">
+        <item>Солнечно</item>
+        <item>В основном солнечно</item>
+        <item>Переменная облачность</item>
+        <item>Порывистый ветер</item>
+        <item>Легкий туман</item>
+        <item>В основном облачно</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Пасмурно</item>
+        <item>Туман</item>
+        <item>Туман</item>
+        <item>Ливни</item>
+        <item>Облачно, сильный дождь</item>
+        <item>Переменная облачность, сильный дождь</item>
+        <item>Грозы</item>
+        <item>Облачно, гроза</item>
+        <item>Переменная облачность, гроза</item>
+        <item>Дождь</item>
+        <item>Сильный ветер</item>
+        <item>Облачно, сильный ветер</item>
+        <item>Переменная облачность, сильный ветер</item>
+        <item>Снег</item>
+        <item>Облачно, снег</item>
+        <item>Гололед</item>
+        <item>Мокрый снег</item>
+        <item>Дождь и гололед</item>
+        <item>Жара</item>
+        <item>Мороз</item>
+        <item>Снег с дождем</item>
+        <item>Жара</item>
+        <item>Мороз</item>
+        <item>Ветрено</item>
+        <item>Солнечно</item>
+        <item>В основном солнечно</item>
+        <item>Переменная облачность</item>
+        <item>Переменная облачность</item>
+        <item>Туман</item>
+        <item>В основном облачно</item>
+        <item>Переменная облачность, сильный дождь</item>
+        <item>Облачно, сильный дождь</item>
+        <item>Переменная облачность, гроза</item>
+        <item>Облачно, гроза</item>
+        <item>Облачно, сильный ветер</item>
+        <item>Облачно, снег</item>
+    </string-array>
+</resources>

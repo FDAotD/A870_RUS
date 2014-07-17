@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_viewtype_labels">
+        <item>Только заголовок</item>
+        <item>Заголовок+заметка</item>
+    </string-array>
+    <string-array name="preferences_viewtype_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="preferences_duetype_labels">
+        <item>Событие</item>
+        <item>Срок</item>
+    </string-array>
+    <string-array name="preferences_duetype_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="smartalarm_peroid_array_labels">
+        <item>Раз в час</item>
+        <item>Раз в 3 часа</item>
+        <item>Раз в 6 часов</item>
+        <item>Ежедневно</item>
+        <item>Каждый рабочий день</item>
+        <item>Каждый выходной день</item>
+    </string-array>
+    <string-array name="smartalarm_peroid_array_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="smartalarm_bellsound_array_labels">
+        <item>Звук</item>
+        <item>Вибрация</item>
+        <item>Без звука</item>
+        <item>Звук и вибрация</item>
+    </string-array>
+    <string-array name="smartalarm_bellsound_array_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="mainlist_contextmenu">
+        <item>Перемещено в другой список</item>
+        <item>Изменить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="task_share_dialog_items">
+        <item>Отправить в оригинальном формате (ics)</item>
+        <item>Отправить в текст. виде</item>
+    </string-array>
+    <string-array name="reminder_spinner_list">
+        <item>Нет напом.</item>
+        <item>Дата выполнения</item>
+        <item>За 1 день</item>
+        <item>За 2 дня</item>
+        <item>За 1 неделю</item>
+    </string-array>
+</resources>

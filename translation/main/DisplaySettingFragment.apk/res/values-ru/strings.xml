@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_pulse_title">Уведомление световой индикацией</string>
+    <string name="display_settings">Экран</string>
+    <string name="accelerometer_title">Автоповорот экрана</string>
+    <string name="brightness">Яркость</string>
+    <string name="screen_timeout">Время ожид. экрана</string>
+    <string name="screen_timeout_summary">После %1$s бездействия</string>
+    <string name="wallpaper_settings_title">Обои</string>
+    <string name="automatic_brightness">Автонастройка яркости</string>
+    <string name="title_font_size">Размер шриф.</string>
+    <string name="dialog_title_font_size">Размер шриф.</string>
+    <string name="display_CABC_brightness">Автонастройка изображения</string>
+    <string name="display_CABC_brightness_info">Автонастройка уровня яркости на основе отображаемого изображения</string>
+    <string name="Desc_CABCDisable_SecretView">Использование функции автонастройки изображения невозможно во время защищенного просмотра</string>
+    <string name="Noti_CABCOFF_SecretView">При запуске защищенного просмотра автонастройка яркости будет временно приостановлена</string>
+    <string name="font_settings">Настройка шрифтов</string>
+    <string name="font_settings_type">Тип шрифта</string>
+    <string name="display_preview_text">"АБВГабвг
+0123456789"</string>
+    <string name="Done">Готово</string>
+    <string name="Cancel">Отмена</string>
+    <string name="wallpaper_settings_title_simple">Обои экрана блокировки</string>
+    <string name="systembar_settings">Тип навигационной панели</string>
+    <string name="systembar_skin_settings">Тема навигационной панели</string>
+    <string name="screenCapture_settings">Область создан. снимка экрана</string>
+    <string name="screenCapture_dialog_title">Использование функции создания снимка экрана</string>
+    <string name="screenCapture_dialog_text">Чтобы создать снимок экрана, одновременно нажмите и удерживайте клавишу питания и клавишу уменьшения громкости.</string>
+    <string name="screenCapture_dialog_left">Клавиша уменьш. громк.</string>
+    <string name="screenCapture_dialog_right">Клавиша питания</string>
+    <string name="first_checkbox">Больше не показывать</string>
+    <string name="fixed_default_bar_help_top">Режим отображения панели навигации будет изменен на стандартный. Панель будет зафиксирована внизу экрана.</string>
+    <string name="fixed_slim_bar_help_top">Режим отображения панели навигации будет изменен на компактный. Панель будет зафиксирована внизу экрана.</string>
+    <string name="movable_hidden_bar_help_top">Режим отображения панели навигации будет изменен на поддерживающий ее перемещение. Этот режим позволяет увеличить рабочую зону экрана.</string>
+    <string name="movable_hidden_bar_help_middle">При необходимости панель можно уменьшить или увеличить.</string>
+    <string name="extendable_hidden_bar_help_top">Режим отображения панели навигации будет изменен на кнопочный. Панель будет отображаться в виде небольшой кнопки, которую можно перемещать в нижней части экрана. Этот режим позволяет увеличить рабочую зону экрана.</string>
+    <string name="extendable_hidden_bar_help_middle">Чтобы развернуть панель, достаточно нажать эту кнопку. Чтобы открыть меню, нажмите на него, проведите по экрану, не отрывая пальца, а затем отпустите палец. Также меню можно открыть, нарисовав прямую линию, начиная от кнопки нужного меню.</string>
+    <string name="extendable_hidden_bar_help_middle2">Чтобы переместить панель навигации вправо или влево, нажмите и удерживайте соответствующую кнопку.</string>
+    <string name="help_text_bottom">Запущенные в фоновом режиме программы будут закрыты, а сохраняемое в данный момент содержимое – удалено.</string>
+    <string name="brightness_popup_text">Настройка яркости подсветки экрана.</string>
+    <string name="brightness_popup_text_auto">Настройка яркости посветки экрана в соответствии с условиями освещения.</string>
+    <string name="home_icon_title">Стиль значков</string>
+    <string name="home_icon_summary">Стиль %1$s (текущий)</string>
+    <string name="home_icon_modern">Модерн</string>
+    <string name="home_icon_limited">Компактный</string>
+    <string name="home_icon_miroo">Miroo</string>
+    <string name="home_icon_disabled">Изменение стиля значков возможно только на главном экране VEGA</string>
+    <string name="home_icon_go_home">Главный экран будет перезагружен</string>
+</resources>

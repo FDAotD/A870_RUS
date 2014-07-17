@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mode change</string>
+    <string name="Simple_Mode">Простой режим</string>
+    <string name="Normal_Mode">Обычный режим</string>
+    <string name="Simple_Mode_desc">Специальный главный экран для упрощения использования Вашего смартфона.</string>
+    <string name="Normal_Mode_desc">Стандартный режим для пользователей, которые знакомы с Android.</string>
+    <string name="Mode_change">Смена режима</string>
+    <string name="Dialog_desc_To_Simple">"Смена стандартного режима на упрощенный.
+ 
+Применяя этот режим будет меняться блокировка экрана, главный экран, экран меню, и шрифты для удобства использования.
+Продолжить?"</string>
+    <string name="Dialog_desc_To_Normal">"Смена упрощенного режима на стандартный.
+ 
+Применяя этот режим будет меняться блокировка экрана, главный экран, экран меню, и шрифты для удобства использования.
+Продолжить?"</string>
+    <string name="Yes">ОК</string>
+    <string name="Cancel">Отмена</string>
+</resources>

@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_activity_title">Проверка приложений</string>
+    <string name="verify_applications">Проверка приложений</string>
+    <string name="verify_applications_summary">Google будет проверять приложения, установленные не из Google Play, и сообщать о тех из них, которые могут представлять опасность. &lt;a href=%1$s>Подробнее…&lt;/a></string>
+    <string name="plus_app_label">Google+</string>
+    <string name="add_moment_title">Сохранение записи дневника</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_one_self_removed">+1 удален</string>
+    <string name="plus_one_self">+1: %1$s</string>
+    <string name="plus_one_public">Для всех</string>
+    <string name="plus_one_count_many">> 10 000</string>
+    <string name="plus_one_annotation_none">Рекомендовать в Google</string>
+    <string name="plus_one_annotation_none_short">Рекомендовать</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_social_annotation_suffix">+1: %1$s</string>
+    <string name="plus_one_social_annotation_user">Вы</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_prefix_you">(в том числе %1$s)</string>
+    <string name="plus_one_social_annotation_prefix">в том числе %1$s</string>
+    <string name="install_google_plus_title">Установите Google+</string>
+    <string name="install_google_plus_text">Чтобы поделиться записью, требуется приложение Google+. Загрузить его из Google Play?</string>
+    <string name="install_google_plus_button">Установить Google+</string>
+    <string name="enable_google_plus_title">Включите Google+</string>
+    <string name="enable_google_plus_text">Чтобы поделиться записью, требуется приложение Google+. Включить его?</string>
+    <string name="enable_google_plus_button">Включить Google+</string>
+    <string name="update_google_plus_title">Обновите Google+</string>
+    <string name="update_google_plus_text">Чтобы поделиться записью, требуется последняя версия Google+. Загрузить обновление из Google Play?</string>
+    <string name="update_google_plus_button">Обновить</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_one_title">+1 добавлен под именем</string>
+    <string name="plus_one_app">Из приложения &lt;b>%s&lt;b></string>
+    <string name="plus_one_undo">Отмена</string>
+    <string name="plus_one_share">Поделиться</string>
+    <string name="plus_one_error">Не удалось добавить +1. Повторите попытку позже.</string>
+    <string name="checking_gplus_signup_state">Подключение…</string>
+    <string name="plus_one_description_standard">Нажмите, чтобы добавить +1</string>
+    <string name="plus_one_description">Нажмите, чтобы добавить +1 к %1$s</string>
+    <string name="plus_one_description_remove">Нажмите, чтобы удалить предудущие +1 (%1$s)</string>
+    <string name="plus_invalid_account">Аккаунт указан неверно</string>
+    <string name="internal_error">Внутренняя ошибка</string>
+    <string name="plus_audience_selection_ok">ОК</string>
+    <string name="plus_audience_selection_cancel">Отмена</string>
+    <string name="plus_audience_selection_title">Аудитория</string>
+    <string name="plus_audience_selection_title_acl">С кем поделиться:</string>
+    <string name="plus_audience_selection_title_update_circles">Добавление в круги</string>
+    <string name="plus_audience_selection_title_search">Поиск</string>
+    <string name="plus_audience_selection_search_hint">Поиск</string>
+    <string name="plus_audience_selection_header_search">ПОИСК</string>
+    <string name="plus_audience_selection_header_circles">КРУГИ</string>
+    <string name="plus_audience_selection_header_people">ЛЮДИ</string>
+    <string name="plus_audience_selection_everyone">Все круги</string>
+    <string name="plus_audience_selection_everyone_description">Открыть доступ ко всем кругам, включая те, которые будут созданы в будущем</string>
+    <string name="plus_audience_selection_hidden_circle">Только вы видите людей из этого круга</string>
+    <string name="plus_audience_selection_public_circle">Все в Интернете</string>
+    <string name="plus_circle_size_pattern">(%d)</string>
+    <string name="plus_audience_selection_loading">Загрузка…</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Круг</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Аватар</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Круги</string>
+    <string name="plus_accessibility_comment_avatar">Круги</string>
+    <string name="plus_update_circles_progress">Подождите…</string>
+    <string name="plus_update_circles_failed_message">Не удалось добавить людей. Повторите попытку позже.</string>
+    <string name="list_apps_empty_message">"Вы ещё не разу не использовали имя пользователя и пароль Google+ для входа в приложения. 
+
+"<annotation id="learn_more">Подробнее…</annotation>"
+
+"</string>
+    <string name="app_settings_activity_label">Подключенные сервисы</string>
+    <string name="disconnect_source_dialog_title">Отключение</string>
+    <string name="disconnect_source_dialog_message">У приложения \"%1$s\" больше не будет доступа к вашему аккаунту, и данные о ваших действиях в нем не будут отправляться в Google. Изменения вступят в силу в течение часа.</string>
+    <string name="list_apps_menu_help">Справка</string>
+    <string name="disconnect_source_dialog_checkbox">Также удалить из Google все мои действия в %s</string>
+    <string name="disconnect_source_dialog_positive_button">Отключить</string>
+    <string name="disconnect_source_dialog_negative_button">Отмена</string>
+    <string name="disconnect_source_progress_dialog_message">Отключение %s…</string>
+    <string name="disconnect_source_failed_dialog_message">Не удалось отключить %s</string>
+    <string name="unknown_app_name">сервис</string>
+    <string name="plus_loading">Загрузка…</string>
+    <string name="plus_list_apps_error">Не удалось загрузить сервисы. Повторите попытку позже.</string>
+    <string name="plus_list_apps_no_accounts">Нет аккаунтов</string>
+    <string name="plus_manage_app_label">Настройки</string>
+    <string name="plus_manage_app_acl_description_label">К каким действиям в этом приложении у Google есть доступ</string>
+    <string name="plus_manage_app_no_acl_description">Ваши действия в приложении</string>
+    <string name="plus_manage_app_pacl_label">Кто может видеть в сервисах Google ваши действия</string>
+    <string name="plus_manage_app_pacl_sub_label">Изменения не повлияют на настройки доступа к информации о ваших прошлых действиях.</string>
+    <string name="plus_manage_app_facl_label">Кого в ваших кругах может видеть это приложение</string>
+    <string name="plus_manage_app_disconnect_label">Отключить приложение</string>
+    <string name="plus_manage_app_only_you_label">Только я</string>
+    <string name="plus_manage_app_limited_label">Доступ ограничен</string>
+    <string name="plus_manage_app_all_circles_label">Все круги</string>
+    <string name="plus_manage_app_no_circles_label">Круги не указаны</string>
+    <string name="plus_manage_app_updating_acl">Обновление…</string>
+    <string name="plus_manage_app_acl_error">Не удалось обновить приложение</string>
+    <string name="plus_manage_app_app_icon_desc">Значок</string>
+    <string name="plus_cross_client_auth_toast_text">Вы вошли в приложение \"%1$s\" с помощью аккаунта %2$s</string>
+    <string name="people_service_title">Контакты</string>
+    <string name="people_sync_service_title">Контакты</string>
+    <string name="people_content_provider_title">Контакты</string>
+    <string name="people_view_profile_action_label">Открыть профиль Google+</string>
+    <string name="people_start_conversation_action_label">Начать чат</string>
+    <string name="people_start_hangout_action_label">Начать Hangouts</string>
+    <string name="people_add_to_circle_action_label">Добавить в круг</string>
+    <string name="people_google_plus_account_label">Google+</string>
+    <string name="people_google_plus_group">Круги Google+</string>
+    <string name="people_post_original_author">Запись из ленты пользователя &lt;b>%s&lt;/b></string>
+    <string name="people_avatar_dialog_title">Добавьте фото профиля</string>
+    <string name="people_avatar_dialog_item_take_photo">Сделать снимок</string>
+    <string name="people_avatar_dialog_item_pick_photo">Выбрать фото</string>
+    <string name="people_avatar_progress_message">Сохранение…</string>
+    <string name="people_avatar_preview_accept_button">ОК</string>
+    <string name="people_avatar_error">Не удалось сохранить фото</string>
+    <string name="people_avatar_error_not_plus_user">Чтобы добавить фото, нужен профиль Google+</string>
+    <string name="people_export_title">Копирование базы данных</string>
+    <string name="people_export_database_message">Вы собираетесь сохранить копию базы данных со всеми контактами во внутренней памяти устройства и отправить ее по электронной почте. Не забудьте удалить копию после того, как она будет перенесена с устройства или доставлена адресату.</string>
+    <string name="people_export_delete_button">Удалить</string>
+    <string name="people_export_start_button">Начать</string>
+    <string name="people_export_email_sender_picker">Выберите программу для отправки файла</string>
+    <string name="people_export_email_subject">База данных с контактами</string>
+    <string name="people_export_email_body">К сообщению прикреплена база данных с моими контактами. Это конфиденциальные сведения – никому не пересылайте и не передавайте их.</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"Мое местоположение 
+Точность: {0} м"</string>
+    <string name="maps_API_OUTDATED_WARNING">Это приложение использует устаревшую версию Карт и может работать неправильно.</string>
+    <string name="maps_dav_map_copyrights_google_only">© Google, %1$d</string>
+    <string name="maps_dav_map_copyrights_full">© Google, %1$d – Изображения © %3$s, %2$d – Картографические данные © %5$s, %4$d</string>
+    <string name="maps_dav_map_copyrights_imagery_only">© Google, %1$d – Изображения © %3$s, %2$d</string>
+    <string name="maps_dav_map_copyrights_map_data_only">© Google, %1$d – Картографические данные © %3$s, %2$d</string>
+    <string name="location_ulr_ambiguous_setting_ticker">Отправка геоданных</string>
+    <string name="location_ulr_ambiguous_setting_title">Отправка геоданных</string>
+    <string name="location_ulr_ambiguous_setting_text">Значение параметра неизвестно. Включить эту функцию?</string>
+    <string name="location_settings_screen_title">Доступ к моим геоданным</string>
+    <string name="location_settings_menu_help">Справка</string>
+    <string name="location_settings_allow_access_title">Доступ к моим геоданным</string>
+    <string name="location_settings_allow_access_summary_phone">Приложения Google смогут использовать данные о местоположении этого телефона, когда он включен</string>
+    <string name="location_settings_allow_access_summary_tablet">Приложения Google смогут использовать данные о местоположении этого планшетного ПК, когда он включен</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Этот параметр отвечает только за доступ приложений Google к геоданным.
+
+Чтобы задать такой доступ для всех приложений, нажмите \"Настройки > Мое местоположение\"."</string>
+    <string name="location_settings_location_reporting_title">Отправка геоданных</string>
+    <string name="location_settings_location_history_title">История местоположений</string>
+    <string name="location_settings_ulr_summary_on">Включено</string>
+    <string name="location_settings_ulr_summary_off">Отключено</string>
+    <string name="location_settings_ulr_summary_loading">Загрузка…</string>
+    <string name="location_settings_ulr_summary_offline">Устройство не подключено к Интернету</string>
+    <string name="location_settings_ulr_summary_error">Не удается загрузить настройки с сервера. Повторите попытку позже.</string>
+    <string name="location_settings_ulr_summary_auth_error">Ошибка аутентификации: неверное имя пользователя или пароль</string>
+    <string name="location_settings_ulr_summary_unknown">Неизвестно</string>
+    <string name="location_settings_ulr_summary_ambiguous">Значение параметра неизвестно. Функция отключена.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Отключено</string>
+    <string name="location_settings_ulr_summary_restricted">Отключено</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Недоступно в этом регионе</string>
+    <string name="location_settings_not_available_title">Вход в систему</string>
+    <string name="location_settings_not_available_summary">Чтобы просмотреть эти настройки, войдите в аккаунт Google.</string>
+    <string name="location_settings_location_reporting_activity_title">Отправка геоданных</string>
+    <string name="location_settings_location_reporting_summary_full">"Эту функцию используют такие сервисы Google, как Now и Карты.
+
+Если вы разрешите отправку геоданных для этого аккаунта, Google сможет сохранять и использовать сведения о вашем местоположении."</string>
+    <string name="location_settings_location_history_activity_title">История местоположений</string>
+    <string name="location_settings_location_history_summary_full">"Google сможет сохранять данные о вашем местоположении, полученные с устройств, на которых вы разрешили отправку геоданных для этого аккаунта. Это позволит вам пользоваться дополнительными возможностями сервисов Google. Например, Google Now будет показывать вам подсказки (о пробках на дорогах и т. д.) в зависимости от того, где вы находитесь.
+
+Управлять этими настройками можно на странице maps.google.com/locationhistory. Вы можете в любой момент отключить историю местоположений, но уже сохраненные данные не будут удалены. Удалить их можно, нажав кнопку ниже."</string>
+    <string name="location_settings_delete_location_history">УДАЛИТЬ ИСТОРИЮ МЕСТОПОЛОЖЕНИЙ</string>
+    <string name="location_settings_delete_location_history_in_progress">УДАЛЕНИЕ...</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Удалить навсегда?</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"Историю местоположений нельзя будет восстановить. 
+
+Это может повлиять на работу Google Now и других приложений."</string>
+    <string name="location_settings_confirm_deleting_location_history_checkbox">Да, удалить</string>
+    <string name="location_settings_confirm_deleting_location_history_confirm">Удалить</string>
+    <string name="location_settings_delete_auth_error">Неверное имя пользователя или пароль.</string>
+    <string name="location_settings_delete_offline_error">Устройство не подключено к Интернету.</string>
+    <string name="location_settings_delete_io_error">Не удалось подключить устройство к сети.</string>
+    <string name="activity_recognition_permission_label">отслеживание действий</string>
+    <string name="activity_recognition_permission_description">Приложение сможет регулярно получать от Google сведения о том, что вы делаете (например, идете пешком, едете на машине или велосипеде, остаетесь на месте).</string>
+    <string name="games_client_settings_activity_title">Настройки</string>
+    <string name="games_client_settings_google_account_desc">Выйти из аккаунта</string>
+    <string name="games_client_settings_google_account_signout_title">Выйти</string>
+    <string name="games_client_settings_signout_alert_dialog_title">Уже уходите?</string>
+    <string name="games_client_settings_signout_alert_dialog_msg">Вы (%s) собираетесь выйти из игры.</string>
+    <string name="games_client_settings_signout_progress_dialog_msg">Выход…</string>
+    <string name="games_client_settings_sharing_title">Настройки общего доступа</string>
+    <string name="games_client_settings_sharing_description">Укажите, кто сможет видеть ваши достижения</string>
+    <string name="games_gcore_select_google_account">Аккаунт Google</string>
+    <string name="games_gcore_select_google_account_summary">Вы вошли в Google Play Игры с помощью аккаунта %1$s</string>
+    <string name="games_invitation_inbox_label">Приглашения</string>
+    <string name="games_gcore_muted_games">Скрытые игры</string>
+    <string name="games_gcore_notifications">Уведомления</string>
+    <string name="games_gcore_notifications_summary">Укажите, хотите ли вы получать из игр запросы и уведомления</string>
+    <string name="games_gcore_notification_scope">Кто может отправлять вам уведомления</string>
+    <string name="games_change_account_dialog_title_different_account">Другой аккаунт</string>
+    <string name="games_change_account_dialog_title_no_account">Нет аккаунта</string>
+    <string name="games_change_account_dialog_message_different_account_format">"Вы вошли в игру \"%1$s\" как %2$s.
+
+Перейти в аккаунт %3$s?"</string>
+    <string name="games_change_account_dialog_message_no_account_format">"Вы не вошли в игру \"%1$s\".
+
+Войти как %3$s?"</string>
+    <string name="games_change_account_dialog_button_view_in_play_store">Открыть в Google Play</string>
+    <string name="games_settings_unmute_title">Включение уведомлений</string>
+    <string name="games_settings_unmute_message">Разрешить отправку запросов и уведомлений из игры \"%s\".</string>
+    <string name="games_settings_unmute_ok">Включить</string>
+    <string name="games_settings_title">Настройки</string>
+    <string name="games_leaderboards_empty">Для этой игры нет рейтингов.</string>
+    <string name="games_leaderboards_network_error">Не удалось загрузить рейтинги игроков. Проверьте интернет-соединение и повторите попытку.</string>
+    <string name="games_leaderboards_generic_error">Не удалось загрузить рейтинги игроков. Повторите попытку позже.</string>
+    <string name="games_leaderboard_list_title">Рейтинг игроков</string>
+    <string name="games_achievement_list_network_error">Не удалось загрузить достижения. Проверьте интернет-соединение и повторите попытку.</string>
+    <string name="games_achievement_list_generic_error">Не удалось загрузить достижения. Повторите попытку позже.</string>
+    <string name="games_select_players_title">Игра с несколькими участниками</string>
+    <string name="games_select_players_empty">Игроков не найдено.</string>
+    <string name="games_select_players_cancel">ОТМЕНА</string>
+    <string name="games_select_players_auto_pick_item_label">Игрок выбирается автоматически</string>
+    <string name="games_select_players_auto_pick_chip_name">Автовыбор</string>
+    <string name="games_select_players_no_slots_remaining">Нельзя добавить игроков</string>
+    <string name="games_select_players_no_invitable_players">"Игроков не найдено.
+
+Сначала добавьте людей в свои круги Google+."</string>
+    <string name="games_waiting_room_room_status_inviting">Ожидание ответа игроков…</string>
+    <string name="games_waiting_room_room_status_auto_matching">Ожидание игроков…</string>
+    <string name="games_waiting_room_room_status_connecting">Подключение…</string>
+    <string name="games_waiting_room_room_status_active">Всё готово</string>
+    <string name="games_waiting_room_menu_start_playing">Начать игру</string>
+    <string name="games_waiting_room_menu_leave_room">Выйти</string>
+    <string name="games_waiting_room_prepare_to_play">Приготовьтесь к игре</string>
+    <string name="games_waiting_room_participant_status_invited">Приглашение отправлено</string>
+    <string name="games_waiting_room_participant_status_player_joined">Приглашение принято</string>
+    <string name="games_waiting_room_participant_status_automatch_joined">Участник</string>
+    <string name="games_waiting_room_participant_status_declined">Приглашение отклонено</string>
+    <string name="games_waiting_room_participant_status_left">Игрок вышел</string>
+    <string name="games_show_matches_just_now">Только что</string>
+    <string name="games_notification_match_title">Новое приглашение в игру</string>
+    <string name="games_notification_invitation_ticker">%s приглашает вас в игру</string>
+    <string name="games_notifications_new_player_butterbar_title">Проверьте настройки оповещений</string>
+    <string name="games_common_header_see_more">ЕЩЁ</string>
+    <string name="games_app_name">Play Игры</string>
+    <string name="games_sync_label">Данные игр</string>
+    <string name="games_refresh">Обновить</string>
+    <string name="games_next_prev_page_retry">Повторить</string>
+    <string name="games_app_unavailable">Не удалось запустить игру \"%1$s\". Повторите попытку позже.</string>
+    <string name="games_player_self">ВЫ</string>
+    <string name="games_signin_welcome_back">ДОБРО ПОЖАЛОВАТЬ</string>
+    <string name="games_unknown_player_name">Пользователь Google</string>
+    <string name="games_cancel">ОТМЕНА</string>
+    <string name="games_play">ИГРАТЬ</string>
+    <string name="games_dest_player_circle_picker_add_title">Добавление в круги</string>
+    <string name="games_dest_player_circle_picker_update_title">Изменение кругов</string>
+    <string name="games_oob_sign_in_with_google">ВОЙДИТЕ В АККАУНТ GOOGLE</string>
+    <string name="games_oob_welcome_proceed">Далее</string>
+    <string name="games_generic_empty_text">Ничего не найдено.</string>
+    <string name="games_leaderboard_subtitle">Рейтинг игроков</string>
+    <string name="games_leaderboard_timespan_menu_alltime">За все время</string>
+    <string name="games_leaderboard_timespan_menu_weekly">За эту неделю</string>
+    <string name="games_leaderboard_timespan_menu_daily">За сегодня</string>
+    <string name="games_leaderboard_menu_reset_top_scores">Показывать рекорды</string>
+    <string name="games_leaderboard_menu_reset_player_centered_scores">Показывать счет каждого игрока</string>
+    <string name="games_leaderboard_subtitle_alltime">Рейтинг игроков</string>
+    <string name="games_leaderboard_subtitle_weekly">Рейтинг игроков за неделю</string>
+    <string name="games_leaderboard_subtitle_daily">Рейтинг игроков за сегодня</string>
+    <string name="games_leaderboard_public_null_state">"Невероятно! Общедоступный рейтинг игроков для этой игры пока пуст.
+
+Начните игру и станьте первым рекордсменом!"</string>
+    <string name="games_leaderboard_scores_network_error">Не удалось загрузить данные для рейтинга игроков. Проверьте интернет-соединение и повторите попытку.</string>
+    <string name="games_leaderboard_scores_generic_error">Не удалось загрузить данные для рейтинга игроков. Повторите попытку позже.</string>
+    <string name="games_leaderboard_public_tab">В ОБЩЕМ ДОСТУПЕ</string>
+    <string name="games_leaderboard_social_tab">МОИ КРУГИ</string>
+    <string name="games_leaderboard_public_header">В общем доступе</string>
+    <string name="games_leaderboard_social_header">Мои круги</string>
+    <string name="games_leaderboard_percentile_label">ЛУЧШИЕ</string>
+    <string name="games_leaderboard_player_count_large_number_format">> %1$s</string>
+    <string name="games_leaderboard_rank_header_ordinal">Я НА %1$s МЕСТЕ</string>
+    <string name="games_leaderboard_rank_header_percentile">Я ВХОЖУ В %1$s%% ЛУЧШИХ</string>
+    <string name="games_leaderboard_social_null_state_alltime_format">"Никто из ваших кругов ещё не играл в \"%s\".
+
+Расскажите друзьям об этой игре и устройте соревнование."</string>
+    <string name="games_leaderboard_social_null_state_weekly_format">"Никто из ваших кругов не играл на этой неделе в \"%s\".
+
+Расскажите друзьям об этой игре и устройте соревнование."</string>
+    <string name="games_leaderboard_social_null_state_daily_format">"Никто из ваших кругов не играл сегодня в \"%s\".
+
+Расскажите друзьям об этой игре и устройте соревнование."</string>
+    <string name="games_leaderboard_null_state_share_on_gplus">Поделиться в Google+</string>
+    <string name="games_leaderboard_null_state_share_subject">Подтвердить (%1$s)</string>
+    <string name="games_leaderboard_null_state_share_body_format">"Я играю в \"%1$s\". Посоревнуемся?
+
+%2$s"</string>
+    <string name="games_leaderboard_null_state_find_people">Поиск людей</string>
+    <string name="games_leaderboard_butterbar_offline_title">Нет соединения</string>
+    <string name="games_leaderboard_butterbar_offline_info">Не удается подключиться к серверу. Повторите попытку позже.</string>
+    <string name="games_leaderboard_butterbar_non_public_pacl_title">Вас нет в рейтинге</string>
+    <string name="games_leaderboard_butterbar_non_public_pacl_info">Чтобы ваши достижения учитывались в рейтинге, сделайте их общедоступными.</string>
+    <string name="games_leaderboard_butterbar_pacl_wait_title">Почему я не вижу свой результат?</string>
+    <string name="games_leaderboard_butterbar_pacl_wait_info">Рейтинги обновляются каждые 24 часа. Зайдите позже, чтобы увидеть свой результат.</string>
+    <string name="games_achievement_list_title">Достижения</string>
+    <string name="games_achievement_empty">Для этой игры нет достижений.</string>
+    <string name="games_achievement_list_header_unlocked_format">Разблокировано %1$d из %2$d</string>
+    <string name="games_achievement_list_header_percentage_format">%1$d%%</string>
+    <string name="games_achievement_hidden_name">Пока неизвестно</string>
+    <string name="games_achievement_hidden_desc">Ещё немного, и вы узнаете, что это за достижение!</string>
+    <string name="games_percentage_format">%1$d%%</string>
+    <string name="games_achievement_popup_label">НОВОЕ ДОСТИЖЕНИЕ</string>
+    <string name="games_menu_settings">Настройки</string>
+    <string name="games_menu_timespan">Выбрать интервал</string>
+    <string name="games_menu_mute_app">Отключить уведомления</string>
+    <string name="games_progress_dialog_muting_app">Отключение уведомлений…</string>
+    <string name="games_progress_dialog_unmuting_app">Включение уведомлений…</string>
+    <string name="games_wide_tile_invitation_solo_description_format">Приглашает вас в игру \"%1$s\"</string>
+    <string name="games_wide_tile_invitation_solo_time_format">ОТПРАВЛЕНО %1$s</string>
+    <string name="games_wide_tile_invitation_solo_num_players_format">ИГРОКОВ: %1$d</string>
+    <string name="games_wide_tile_invitation_play">Играть</string>
+    <string name="games_wide_tile_invitation_game_info">Информация об игре</string>
+    <string name="games_wide_tile_invitation_decline">Отклонить</string>
+    <string name="games_invitation_list_null_state">Ничего нет.</string>
+    <string name="games_pano_cluster_label_recent_games">Недавние игры</string>
+    <string name="games_pano_cluster_label_recent_players">Игроки</string>
+    <string name="games_pano_cluster_label_sign_in_required">Войдите в аккаунт</string>
+    <string name="games_pano_sign_in_successful">Вы вошли в аккаунт</string>
+    <string name="games_pano_browse_header_invitations">Приглашения</string>
+    <string name="games_pano_browse_header_recent_games">Недавние игры</string>
+    <string name="games_pano_browse_header_all_games">Все игры</string>
+    <string name="games_pano_browse_header_multiplayer_games">Сетевые игры</string>
+    <string name="games_pano_browse_header_featured_games">Рекомендуемые игры</string>
+    <string name="games_pano_browse_header_recent_players">Недавно играли</string>
+    <string name="games_pano_browse_header_all_players">Все игроки</string>
+    <string name="games_pano_browse_header_settings">Настройки</string>
+    <string name="games_pano_player_detail_about">Об игроке</string>
+    <string name="games_pano_player_detail_games">Игры</string>
+    <string name="games_pano_settings_choose_account">Выбрать аккаунт</string>
+    <string name="games_resolution_failure_dialog_message">Не удается восстановить связь с сервисом.</string>
+    <string name="common_app_name">Сервисы Google Play</string>
+    <string name="common_choose_account_label">Выберите аккаунт</string>
+    <string name="common_add_account_label">Добавление аккаунта</string>
+    <string name="common_add_account_button_label">Добавить аккаунт</string>
+    <string name="common_accessibility_audience_view_editable">Изменить аудиторию</string>
+    <string name="common_chips_label_public">Для всех</string>
+    <string name="common_chips_label_your_circles">Мои круги</string>
+    <string name="common_chips_label_extended_circles">Расширенные круги</string>
+    <string name="common_chips_label_only_you">Только я</string>
+    <string name="common_google_settings">Настройки Google</string>
+    <string name="common_maps_settings_title">Карты и Локатор</string>
+    <string name="common_location_settings_title">Мое местоположение</string>
+    <string name="common_search_settings_title">Поиск</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_ads_settings_title">Реклама</string>
+    <string name="common_connected_apps_settings_title">Сервисы, подключенные к Google+</string>
+    <string name="common_games_settings_title">Play Игры</string>
+    <string name="common_security_settings_title">Проверка приложений</string>
+    <string name="common_no_network">Устройство не подключено к серверу</string>
+    <string name="common_network_load_failed">Не удалось подключиться к сети</string>
+    <string name="common_google_play_services_error_dialog_title">Ошибка</string>
+    <string name="common_google_play_services_no_restricted_profiles">Это приложение не поддерживается в аккаунтах для профилей с ограниченным доступом</string>
+    <string name="common_clear_app_data_menu_item">Удалить данные приложения</string>
+    <string name="auth_app_label">Аккаунты Google</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_next_button_label">Далее</string>
+    <string name="auth_back_button_label">Назад</string>
+    <string name="auth_sign_in_button_label">Войти</string>
+    <string name="auth_skip_button_label">Пропустить</string>
+    <string name="auth_cancel_button_label">Отмена</string>
+    <string name="auth_try_again_button_label">Повторите попытку</string>
+    <string name="auth_captcha_title">Необходимо ввести символы с картинки</string>
+    <string name="auth_show_error_title">Ошибка</string>
+    <string name="auth_server_error">Не удалось связаться с серверами Google.</string>
+    <string name="auth_server_error_help">Повторите попытку позже.</string>
+    <string name="auth_network_unreliable">Не удается установить надежное соединение с сервером.</string>
+    <string name="auth_network_unreliable_help">Возможно, это временная неполадка или ваше устройство Android не поддерживает передачу данных. Если проблема не исчезнет, обратитесь в службу поддержки.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Похоже, возникла временная неполадка. Повторите попытку или подключитесь к другой сети Wi-Fi.</string>
+    <string name="auth_invalid_login_character">Недопустимый символ. Можно использовать только цифры 0–9, буквы a–z, A–Z и точки.</string>
+    <string name="auth_invalid_password_character">Пароль содержит недопустимый символ.</string>
+    <string name="auth_field_cant_be_blank">Поле должно быть заполнено.</string>
+    <string name="auth_plus_name_check_text">Это может занять несколько минут.</string>
+    <string name="auth_communicating_message">Телефон связывается с Google, чтобы сохранить информацию в аккаунте. Это может занять несколько минут.</string>
+    <string name="auth_plus_failure_title">Ошибка при создании профиля Google+</string>
+    <string name="auth_plus_failure_new_account_text">Аккаунт Google создан, но запрос на регистрацию в Google+ не принят. Повторите попытку позже, открыв страницу plus.google.com в любом веб-браузере.</string>
+    <string name="auth_plus_failure_text">Запрос на регистрацию в Google+ не принят. Повторите попытку позже, открыв страницу plus.google.com в любом веб-браузере.</string>
+    <string name="auth_invalid_scope">Ошибка аутентификации.</string>
+    <string name="auth_login_title">Введите адрес эл. почты и пароль</string>
+    <string name="auth_login_task_title">Вход в систему</string>
+    <string name="auth_password">Пароль</string>
+    <string name="auth_sign_in_agreement">Выполняя вход, вы принимаете <annotation id="google_privacy">Политику конфиденциальности Google</annotation> и <annotation id="android_privacy">дополнительные политики конфиденциальности</annotation>.</string>
+    <string name="auth_sign_in_agreement_multi_user">Выполняя вход в аккаунт, вы соглашаетесь с <annotation id="tos">Условиями использования</annotation> и <annotation id="google_privacy">Политикой конфиденциальности</annotation> Google, а также <annotation id="play_tos">Условиями использования Google Play</annotation>".
+
+Помните: другие пользователи могут разрешать обновления для вашего аккаунта, поэтому мы рекомендуем предоставлять доступ к устройству только тем людям, которым вы доверяете."</string>
+    <string name="auth_sign_in_agreement_with_chrome">Выполняя вход, вы принимаете <annotation id="tos">Условия использования</annotation> и <annotation id="google_privacy">Политику конфиденциальности</annotation> Google, <annotation id="chrome_tos">Условия использования</annotation> и <annotation id="chrome_privacy">Примечание о конфиденциальности</annotation> Chrome, а также <annotation id="play_tos">Условия использования</annotation> Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">Выполняя вход в аккаунт, вы соглашаетесь с <annotation id="tos">Условиями использования</annotation> и <annotation id="google_privacy">Политикой конфиденциальности</annotation> Google, <annotation id="chrome_tos">Условиями использования</annotation> и <annotation id="chrome_privacy">Примечанием о конфиденциальности</annotation> Chrome, а также <annotation id="play_tos">Условиями использования</annotation>" Google Play. 
+
+Помните: другие пользователи могут разрешать обновления для вашего аккаунта, поэтому мы рекомендуем предоставлять доступ к устройству только тем людям, которым вы доверяете."</string>
+    <string name="auth_sign_in_with_google_account_short">Войдите, используя аккаунт Google</string>
+    <string name="auth_invalid_username">Недопустимое имя пользователя</string>
+    <string name="auth_captcha_instructions">Введите текст, который видите на картинке.</string>
+    <string name="auth_account_already_has_gmail">В этом аккаунте уже настроена служба Gmail.</string>
+    <string name="auth_error_account_disabled">"Аккаунт отключен.
+
+Подробную информацию об этом можно найти на странице http://google.com/accounts."</string>
+    <string name="auth_no_network">Нет подключения к сети.</string>
+    <string name="auth_no_network_help">Возможно, это временная неполадка или ваше устройство Android не поддерживает передачу данных. Подключитесь к мобильной сети или сети Wi-Fi и повторите попытку.</string>
+    <string name="auth_no_network_help_wifi_only">Похоже, возникла временная неполадка. Повторите попытку или подключитесь к другой сети Wi-Fi.</string>
+    <string name="auth_error_login_failed">"Неверные имя пользователя и пароль. Повторите попытку.
+
+Чтобы восстановить данные аккаунта, перейдите на страницу google.com/accounts/recovery/."</string>
+    <string name="auth_error_account_not_verified">"Не удалось подтвердить подлинность аккаунта. Чтобы выполнить проверку, перейдите по ссылке в сообщении электронной почты.
+
+Чтобы восстановить данные аккаунта, откройте страницу http://google.com/accounts/recovery?hl=ru на компьютере."</string>
+    <string name="auth_exit_menu_item">Закрыть</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> не связан с почтой Gmail.</string>
+    <string name="auth_error_not_logged_in">Не удалось выполнить вход.</string>
+    <string name="auth_error_username_unavailable">Пользователь с таким именем уже существует.</string>
+    <string name="auth_error_bad_password">Пароль слишком простой или содержит недопустимые символы. Повторите попытку.</string>
+    <string name="auth_error_bad_username">Неверное имя пользователя.</string>
+    <string name="auth_existing_account_error_title">Аккаунт уже существует</string>
+    <string name="auth_existing_account_error_text">На этом устройстве уже есть аккаунт ^1.</string>
+    <string name="auth_submission_title">Ошибка</string>
+    <string name="auth_submission_error_text">Произошла ошибка. Повторите попытку.</string>
+    <string name="auth_ui_add_account_title">Настройка аккаунта</string>
+    <string name="auth_ui_activity_title">Вход в систему</string>
+    <string name="auth_ui_activity_title_browser_signin">Вход в браузере</string>
+    <string name="auth_ui_activity_authenticating">Аутентификация…</string>
+    <string name="auth_dmagent_activity_message">" В домене требуется система управления мобильными устройствами. Установите приложение Google Apps Device Policy, чтобы применить правила безопасности, необходимые для аккаунта  "<b>^1</b> .</string>
+    <string name="auth_sign_in_browser">Вход в браузере</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Пароль указан неверно, или аккаунт был изменен. Введите пароль ещё раз.</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Вход с Google+</string>
+    <string name="auth_scope_details_dialog_title">Дополнительная информация</string>
+    <string name="auth_pacl_scope_details_dialog_title">Какие данные доступны Google</string>
+    <string name="auth_facl_scope_details_dialog_title">Какие данные доступны приложению</string>
+    <string name="auth_app_permission_label">РАЗРЕШЕНИЯ ДЛЯ ПРИЛОЖЕНИЯ</string>
+    <string name="auth_app_permission_title">Вход в \"%s\" с аккаунтом Google</string>
+    <string name="auth_only_you_acl">Личное</string>
+    <string name="auth_allow_external_site_access">Доступ к вашим данным на сайте %s</string>
+    <string name="auth_accept_access">Принять</string>
+    <string name="auth_unexpected_acl_error">Не удалось сохранить настройки доступа.</string>
+    <string name="auth_app_permission_footnote">Доступ приложения \"%s\" и Google к этим данным регламентируется соответствующими условиями использования и политиками конфиденциальности.</string>
+    <string name="auth_visible_actions_title">С кем поделиться</string>
+    <string name="auth_facl_with_warning_label">Чьи данные может использовать это приложение</string>
+    <string name="auth_choose_circles_title">Выберите людей</string>
+    <string name="auth_scope_icon_desc">Значок</string>
+    <string name="auth_scope_info_desc">Информация</string>
+    <string name="auth_scope_acl_edit_desc">Изменить</string>
+    <string name="auth_scope_warning_desc">Предупреждение</string>
+    <string name="auth_account_setup_title">Аккаунт Google</string>
+    <string name="auth_login_activity_title">Вход</string>
+    <string name="auth_relogin_activity_title">Введите пароль ещё раз</string>
+    <string name="auth_provisioned_welcome">Здравствуйте, %s!</string>
+    <string name="auth_provisioned_welcome_2">"Введите пароль для этого пользователя:
+%s"</string>
+    <string name="auth_show_error_activity_title">Не удалось выполнить вход</string>
+    <string name="auth_login_activity_task_title">Вход в систему…</string>
+    <string name="auth_username">Адрес эл. почты</string>
+    <string name="auth_error_invalid_second_factor">Нужно вводить пароль приложения, а не аккаунта.</string>
+    <string name="auth_error_needs_browser">Чтобы войти в аккаунт, укажите имя пользователя и пароль. Чтобы открыть страницу входа, нажмите \"Далее\".</string>
+    <string name="auth_plus_query_title">Создание профиля Google+</string>
+    <string name="auth_first_name">Имя</string>
+    <string name="auth_last_name">Фамилия</string>
+    <string name="auth_name_title">Ваше имя</string>
+    <string name="auth_bad_name_title">Использовать это имя?</string>
+    <string name="auth_invalid_name_title">Недопустимое имя</string>
+    <string name="auth_bad_name_display">%1$s %2$s</string>
+    <string name="auth_bad_name_text">"Если вы хотите использовать это имя в Google+, нам потребуется проверить его. Если оно нарушает наши правила, ваш профиль будет заблокирован. Кроме того, доступ к продуктам Google, связанным с этим профилем, будет ограничен.
+
+"<annotation id="learn_more">Подробнее...</annotation></string>
+    <string name="auth_invalid_name_text">Это имя нельзя использовать в Google+, так как оно содержит недопустимые символы.</string>
+    <string name="auth_invalid_nickname_text">Это имя нельзя использовать в Google+, так как оно содержит недопустимые символы. Если вы хотите указать псевдоним, другое имя или звание, добавьте его в профиль после регистрации.</string>
+    <string name="auth_invalid_other_text">Это имя нельзя использовать в Google+.</string>
+    <string name="auth_bad_name_agree_text">Я принимаю условия и хочу использовать это имя.</string>
+    <string name="auth_bad_name_decline_button_label">Изменить имя</string>
+    <string name="auth_bad_name_agree_button_label">Отправить на проверку</string>
+    <string name="auth_bad_name_skip_button_label">Не активировать Google+</string>
+    <string name="auth_plus_faq_title">Добро пожаловать в Google+!</string>
+    <string name="auth_dasher_warning">Администратор домена %s имеет доступ ко всем вашим данным в Google+ и может удалить или изменить ваш профиль в любое время без предупреждения.</string>
+    <string name="auth_picassa_info_title">Picasa и Google+</string>
+    <string name="auth_picassa_info_text" formatted="false">Фотографии и видеоролики из Веб-альбомов Picasa будут доступны в Google+. Они, а также комментарии, будут публиковаться под именем %s %s, а не %s. Другие пользователи смогут делиться фотографиями, которые вы опубликовали. Настройки доступа к альбомам не изменятся, но если вы не хотите, чтобы ими кто-то делился, заблокируйте их.</string>
+    <string name="auth_allow_personalized_content">Я хочу видеть, кто из моих друзей добавлял +1 к фотографиям, видеороликам, ссылкам и рекламе на сайтах, не принадлежащих Google, и разрешаю Google использовать данные из моего профиля для обеспечения работы этой функции.</string>
+    <string name="auth_gender_prompt">Пол</string>
+    <string name="auth_done">ОК</string>
+    <string name="auth_learn_more_title">Подробнее…</string>
+    <string name="auth_learn_more_bad_name">Используйте в Google+ свое настоящее имя. Профиль должен представлять одного человека (а не компанию, организацию или семью) и содержать ваше имя и фамилию на одном языке без титулов, званий или пунктуационных знаков. После регистрации псевдонимы и другие имена можно указать в соответствующем разделе.</string>
+    <string name="auth_learn_more_bad_name_title">О политике в отношении имен</string>
+    <string name="auth_setup_wizard_title">Мастер настройки</string>
+    <string name="auth_close_button_label">Закрыть</string>
+    <string name="auth_android_privacy_policy_title">Дополнительная политика конфиденциальности</string>
+    <string name="auth_google_terms_of_service_title">Условия использования Google</string>
+    <string name="auth_google_privacy_policy_title">Политика конфиденциальности Google</string>
+    <string name="auth_google_plus_privacy_policy_title">Политика конфиденциальности Google+</string>
+    <string name="auth_google_play_tos_title">Условия использования Google Play</string>
+    <string name="auth_oob_location_sharing_title">Данные о местоположении</string>
+    <string name="auth_oob_location_tos_title">Условия использования геоданных</string>
+    <string name="auth_oob_mobile_tos_title">Условия использования моб. продуктов</string>
+    <string name="auth_oob_privacy_policy_title">Политика конфиденциальности</string>
+    <string name="auth_chrome_tos_title">Условия использования Chrome</string>
+    <string name="auth_chrome_privacy_title">Примечание о конфиденциальности Chrome</string>
+    <string name="auth_url_load_unsuccessful_message">Устройство не подключено к сети. Чтобы получить подробную информацию, откройте страницу %s в веб-браузере.</string>
+    <string name="auth_url_load_unsuccessful_message_wifi_only">Устройство не подключено к сети Wi-Fi. Чтобы получить подробную информацию, откройте страницу %s в веб-браузере.</string>
+    <string name="auth_unified_setup_activity_title">Создание профиля Google+</string>
+    <string name="auth_unified_setup_activity_simple_oob_title">Профиль Google+</string>
+    <string name="auth_unified_setup_activity_message">Ваше имя и отметки +1 появятся в результатах поиска, рекламных объявлениях и на сайтах.</string>
+    <string name="auth_oob_tos">Нажимая <b>Продолжить</b>, вы создаете общедоступный профиль и разрешаете Google <annotation id="oob_location_sharing">определять ваше местоположение</annotation>, а также принимаете <annotation id="oob_mobile_tos">Условия использования мобильных продуктов</annotation> и <annotation id="oob_privacy_policy">Политику конфиденциальности</annotation>.</string>
+    <string name="auth_simple_oob_tos">Нажимая <b>Принять</b>, вы разрешаете Google <annotation id="oob_location_sharing">использовать данные о вашем местоположении</annotation> и принимаете <annotation id="oob_mobile_tos">Условия использования мобильных продуктов</annotation> и <annotation id="oob_privacy_policy">Политику конфиденциальности</annotation>.</string>
+    <string name="auth_oob_tos_korea">By touching <b>Continue</b> you are creating a public profile, and accepting the <annotation id="oob_location_tos_for_korea">Location Terms of Service</annotation>, <annotation id="oob_mobile_tos">Mobile Terms of Service</annotation>, and <annotation id="oob_privacy_policy">Privacy Policy</annotation>.</string>
+    <string name="auth_simple_oob_tos_korea">By touching <b>Accept</b> you are accepting the <annotation id="oob_location_tos_for_korea">Location Terms of Service</annotation>, <annotation id="oob_mobile_tos">Mobile Terms of Service</annotation>, and <annotation id="oob_privacy_policy">Privacy Policy</annotation>.</string>
+    <string name="auth_oob_join">Продолжить</string>
+    <string name="auth_oob_tos_accept">Принять</string>
+    <string name="auth_oob_loading">Загрузка…</string>
+    <string name="auth_oob_sending">Отправка…</string>
+    <string name="app_level_title">Запрос на вход</string>
+    <string name="app_level_title_secondary">%s: запрос на вход</string>
+    <string name="account_level_title">Действие с аккаунтом</string>
+    <string name="notification_ticker">Поступил запрос на доступ</string>
+    <string name="recovery_notification_ticker">Обратите внимание на аккаунт!</string>
+    <string name="recovery_notification_title">Восстановление пароля</string>
+    <string name="recovery_title">Восстановление пароля аккаунта Google</string>
+    <string name="recovery_message_set">"Пароли иногда забываются.
+
+Укажите номер телефона или дополнительный адрес электронной почты, чтобы при необходимости легко восстановить доступ к своим данным в Google и Google Play. "<annotation id="help_url">Подробнее…</annotation></string>
+    <string name="recovery_message_verify">"Пароли иногда забываются.
+
+Подтвердите номер телефона или дополнительный адрес электронной почты, чтобы при необходимости легко восстановить доступ к своим данным в Google и Google Play. "<annotation id="help_url">Подробнее…</annotation></string>
+    <string name="recovery_input_screen_message">Оставьте свои контактные данные, чтобы мы могли связаться с вами, если вы забудете пароль для приложения \"%s\".</string>
+    <string name="secondary_email_hint">Дополнит. адрес эл. почты</string>
+    <string name="secondary_email_invalid">Недопустимый адрес эл. почты</string>
+    <string name="secondary_email_same_as_primary">Не может совпадать с основным</string>
+    <string name="phone_number_hint">Номер телефона</string>
+    <string name="phone_number_invalid_character">Недопустимые знаки в номере телефона</string>
+    <string name="phone_number_invalid">Недопустимый номер телефона</string>
+    <string name="country_invalid">Выберите другую страну</string>
+    <string name="recovery_done_button_label">Готово</string>
+    <string name="recovery_yes_button_label">Настроить параметры</string>
+    <string name="recovery_yes_button_label_verify">Подтвердить</string>
+    <string name="recovery_server_error">Ошибка связи с сервером. Повторите попытку позже.</string>
+    <string name="auth_gls_create_google_account">Выбор имени пользователя</string>
+    <string name="auth_gls_create_google_account_text">С помощью своего аккаунта вы можете пользоваться Gmail – службой электронной почты от Google. Она работает на любых устройствах, надежно защищает от спама и имеет множество других преимуществ.</string>
+    <string name="auth_gls_create_button_label">Создать аккаунт</string>
+    <string name="auth_gls_not_now_button_label">Не сейчас</string>
+    <string name="auth_gls_new_button_label">Создать</string>
+    <string name="auth_gls_existing_button_label">Существующий</string>
+    <string name="auth_gls_add_a_google_account">Добавление аккаунта Google</string>
+    <string name="auth_gls_server_error">Не удалось связаться с серверами Google.</string>
+    <string name="auth_gls_server_error_help">Повторите попытку позже.</string>
+    <string name="auth_gls_network_unreliable">Не удается установить надежное соединение с сервером.</string>
+    <string name="auth_gls_network_unreliable_help">Возможно, это временная неполадка или ваше устройство Android не поддерживает передачу данных. Если проблема не исчезнет, обратитесь в службу поддержки.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Похоже, возникла временная неполадка. Повторите попытку или подключитесь к другой сети Wi-Fi.</string>
+    <string name="auth_gls_cant_be_blank">Поле должно быть заполнено.</string>
+    <string name="auth_gls_plus_query_text">В Google+ делиться чем-нибудь интересным также легко, как в реальной жизни.</string>
+    <string name="auth_gls_circles_subtitle">Круги</string>
+    <string name="auth_gls_circles_text">Простой способ делиться чем-нибудь интересным в Интернете.</string>
+    <string name="auth_gls_uploads_subtitle">Фото с телефона</string>
+    <string name="auth_gls_uploads_text">Синхронизация фотографий со всех ваших устройств.</string>
+    <string name="auth_gls_huddle_text">Групповой чат с участниками ваших кругов</string>
+    <string name="auth_gls_plus_declined_button_label">Не сейчас</string>
+    <string name="auth_gls_plus_accepted_button_label">Присоединиться к Google+</string>
+    <string name="auth_gls_plus_name_check_title">Проверка данных…</string>
+    <string name="auth_gls_plus_name_check_text">Это может занять несколько минут.</string>
+    <string name="auth_gls_name_title_plus">Ваше имя в Google+</string>
+    <string name="auth_gls_name_title_local">Владелец телефона</string>
+    <string name="auth_gls_name_text">Ваше имя используется для персонализации телефона и сервисов Google.</string>
+    <string name="auth_gls_name_text_local">Телефон использует ваше имя, чтобы персонализировать некоторые приложения.</string>
+    <string name="auth_gls_name_progress_title">Подождите…</string>
+    <string name="auth_gls_photo_title">Ваше фото</string>
+    <string name="auth_gls_photo_text">Фото сохранится в ваших контактных данных. Сменить его можно в приложении \"Контакты\".</string>
+    <string name="auth_gls_photo_text_es">Сделайте фотографию, которую будут видеть ваши друзья в Google+. Позже можно будет выбрать другое изображение.</string>
+    <string name="auth_gls_photo_button_label">Сделать скриншот</string>
+    <string name="auth_gls_retake_photo_button_label">Перефотографировать</string>
+    <string name="auth_gls_photo_failure">Не удалось включить камеру</string>
+    <string name="auth_gls_crop_failure">Не удалось кадрировать фотографию.</string>
+    <string name="auth_gls_photo_description">Ваше фото</string>
+    <string name="auth_gls_creating_account_title">Сохранение аккаунта…</string>
+    <string name="auth_gls_checking_username_message">"Телефон связывается с Google, чтобы проверить доступность указанного имени пользователя.
+
+Это может занять несколько минут."</string>
+    <string name="auth_gls_plus_failure_title">Ошибка</string>
+    <string name="auth_gls_plus_failure_new_account_text">Аккаунт Google создан, но запрос на регистрацию в Google+ не принят. Повторите попытку позже, открыв страницу plus.google.com в любом веб-браузере.</string>
+    <string name="auth_gls_plus_failure_text">Запрос на регистрацию в Google+ не принят. Повторите попытку позже, открыв страницу plus.google.com в любом веб-браузере.</string>
+    <string name="auth_gls_password_title">Создание пароля</string>
+    <string name="auth_gls_choose_a_password">Пароль</string>
+    <string name="auth_gls_confirm_password">Введите пароль ещё раз</string>
+    <string name="auth_gls_too_short">Слишком короткий</string>
+    <string name="auth_gls_security_questions_title">Вопросы безопасности</string>
+    <string name="auth_gls_answer">" "<b>Ответ</b></string>
+    <string name="auth_gls_password_mismatch">Пароли не совпадают. Повторите попытку.</string>
+    <string name="auth_gls_eight_chars_min">Не менее 8 символов</string>
+    <string name="auth_gls_verify_your_profile">Подтвердите профиль</string>
+    <string name="auth_gls_error_bad_password">Пароль слишком простой или содержит недопустимые символы. Повторите попытку.</string>
+    <string name="auth_gls_existing_account_error_title">Аккаунт уже существует</string>
+    <string name="auth_gls_existing_account_error_text">На этом устройстве Android уже есть аккаунт ^1.</string>
+    <string name="auth_gls_submission_title">Ошибка</string>
+    <string name="auth_gls_account_tos_title">Создание аккаунта</string>
+    <string name="auth_gls_account_tos_plus_title">И последнее…</string>
+    <string name="auth_gls_enable_web_history">Включить историю веб-поиска</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Подробнее…</annotation></string>
+    <string name="auth_gls_account_creation_tos">Выполняя следующий шаг, вы соглашаетесь с <annotation id="tos">Условиями использования Google</annotation>, <annotation id="google_privacy">Политикой конфиденциальности</annotation> и <annotation id="play_tos">Условиями использования Google Play</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">Выполняя следующий шаг, вы соглашаетесь с <annotation id="tos">Условиями использования Google</annotation>, <annotation id="google_privacy">Политикой конфиденциальности</annotation>, <annotation id="chrome_tos">Условиями использования Chrome</annotation>, <annotation id="chrome_privacy">Примечанием о конфиденциальности</annotation> и <annotation id="play_tos">Условиями использования Google Play</annotation>.</string>
+    <string name="auth_gls_account_pre_intro_title">Добавление аккаунта Google</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Есть ли у вас аккаунт Google?
+
+Если вы пользуетесь Gmail или Google Apps, выберите \"Да\"."</string>
+    <string name="auth_gls_account_pre_intro_yes">Да</string>
+    <string name="auth_gls_account_pre_intro_no">Нет</string>
+    <string name="auth_gls_account_intro_required_title">Технологии Google</string>
+    <string name="auth_gls_account_intro_recommended_title">Настройка аккаунта Google</string>
+    <string name="auth_gls_account_intro_default_message">Теперь вы не потеряете свои данные – все будет храниться в аккаунте Google!</string>
+    <string name="auth_gls_account_intro_simple_message">Добавить существующий аккаунт или создать новый?</string>
+    <string name="auth_gls_account_intro_learn_more">Подробнее</string>
+    <string name="auth_gls_wait_for_device_country_title">Настройка аккаунта</string>
+    <string name="auth_gls_wait_for_device_country_msg">Сбор сведений о телефоне…</string>
+    <string name="auth_gls_recovery_title">Данные для восстановления</string>
+    <string name="auth_gls_account_recovery_info">Если вы забудете пароль, то сможете создать новый. Для этого вам нужно будет ответить на секретный вопрос, после чего мы отправим ссылку на ваш дополнительный адрес электронной почты.</string>
+    <string name="auth_gls_secondary_email_label">Дополнительный адрес эл. почты</string>
+    <string name="auth_gls_invalid_email">"Адрес эл. почты указан неверно.
+Пример правильного адреса: ivan@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">Дополнительный адрес эл. почты не должен совпадать с основным.</string>
+    <string name="auth_gls_backup_consent_message">"С помощью аккаунта Google вы можете создавать резервные копии своих приложений, настроек (например, закладок и паролей Wi-Fi) и других данных. Если у вас уже есть резервная копия аккаунта, ее можно восстановить на этом телефоне.
+
+Вы можете в любой момент изменить параметры резервного копирования в разделе \"Настройки\"."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Используйте аккаунт Google для резервного копирования приложений, настроек (например, закладок и паролей точек доступа Wi-Fi) и других данных.
+
+Изменить параметры резервного копирования можно в меню \"Настройки\"."</string>
+    <string name="auth_gls_backup_consent_yes_agree">Создавать резервную копию данных этого телефона в моем аккаунте Google</string>
+    <string name="auth_gls_restore_consent_yes_agree">Восстановить данные из моего аккаунта Google на этом телефоне</string>
+    <string name="auth_gls_restoring_title">Восстановление…</string>
+    <string name="auth_gls_restoring_message">Ваш телефон связывается с Google, чтобы восстановить аккаунт. Это может занять несколько минут.</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Подготовка…</string>
+    <string name="auth_gls_ui_activity_authenticating">Аутентификация…</string>
+    <string name="auth_gls_learn_more_account_intro">" Аккаунт Google позволяет:
+
+"<li><ul>работать со своими данными на любом компьютере;</ul></li>"
+
+"<li><ul>создавать резервные копии данных аккаунта, таких как почта, контакты, музыка или фотографии;</ul></li>" 
+
+"<li><ul>использовать различные сервисы Google, такие как Контакты, Календарь и Карты, где бы вы ни находились.</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">Об аккаунтах Google</string>
+    <string name="auth_gls_account_intro_title">Аккаунт Google</string>
+    <string name="auth_gls_learn_more_web_history">"История веб-поиска позволяет уточнять результаты с учетом ваших запросов и посещенных веб-сайтов, что делает работу с Google удобнее.
+
+Просмотреть данные и изменить их (в том числе включить или отключить сохранение истории) можно на странице http://www.google.com/history."</string>
+    <string name="auth_gls_learn_more_web_history_title">Об истории веб-поиска</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" В домене требуется система управления мобильными устройствами. Активируйте приложение Google Apps Device Policy, чтобы применить правила безопасности, необходимые для аккаунта  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Активировать</string>
+    <string name="auth_gls_dmagent_activity_download_message">" В домене требуется система управления мобильными устройствами. Установите приложение Google Apps Device Policy, чтобы применить правила безопасности, необходимые для аккаунта  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Загрузить</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Резервное копирование и восстановление</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Резервное копирование</string>
+    <string name="auth_gls_sync_intro_activity_title">Вы вошли в аккаунт</string>
+    <string name="auth_gls_error_needs_browser">Чтобы получить доступ к аккаунту, необходимо выполнить вход в браузере. Для этого нажмите \"Далее\".</string>
+    <string name="auth_gls_google_play_opt_in">Я хочу получать новостную рассылку из Google Play.</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"В Google+ у вас будет общедоступный профиль, который поможет вашим друзьям легко находить вас в Интернете. Любой, кто знает ваш адрес электронной почты, может отыскать и просмотреть этот профиль.
+
+Используйте кнопку +1, чтобы рекомендовать интересные интернет-находки. Ваши рекомендации и профиль будут видны всем в результатах поиска, объявлениях и по всему Интернету.
+
+Сейчас в профиле отображается только ваше имя (%s %s). Если хотите, добавьте фотографии, информацию о себе и другие данные."</string>
+    <string name="auth_gls_dasher_warning">Администратор домена %s имеет доступ ко всем вашим данным в Google+ и может удалить или изменить ваш профиль без предупреждения.</string>
+    <string name="auth_gls_provisioned_welcome">Здравствуйте, %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Введите пароль для этого пользователя:
+%s"</string>
+    <string name="auth_gls_provisioned_incorrect_login">Я не %s</string>
+    <string name="auth_gls_sign_in_agreement">Выполняя вход, вы принимаете <annotation id="tos">Условия использования</annotation> и <annotation id="google_privacy">Политику конфиденциальности Google</annotation>, а также <annotation id="play_tos">Условия использования Google Play</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Выполняя вход в аккаунт, вы соглашаетесь с "<annotation id="tos">Условиями использования</annotation> и <annotation id="google_privacy">Политикой конфиденциальности Google</annotation>, а также <annotation id="play_tos">Условиями использования Google Play</annotation>".
+
+Помните: другие пользователи могут разрешать обновления для вашего аккаунта, поэтому мы рекомендуем предоставлять доступ к устройству только тем людям, которым вы доверяете."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Выполняя вход, вы принимаете "<annotation id="tos">Условия использования</annotation> и <annotation id="google_privacy">Политику конфиденциальности</annotation> Google, <annotation id="chrome_tos">Условия использования</annotation> и <annotation id="chrome_privacy">Примечание о конфиденциальности</annotation> Chrome, а также <annotation id="play_tos">Условия использования</annotation> Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Выполняя вход в аккаунт, вы соглашаетесь с "<annotation id="tos">Условиями использования</annotation> и <annotation id="google_privacy">Политикой конфиденциальности</annotation> Google, <annotation id="chrome_tos">Условиями использования</annotation> и <annotation id="chrome_privacy">Примечанием о конфиденциальности</annotation> Chrome, а также <annotation id="play_tos">Условиями использования</annotation>" Google Play. 
+
+Помните: другие пользователи могут разрешать обновления для вашего аккаунта, поэтому мы рекомендуем предоставлять доступ к устройству только тем людям, которым вы доверяете."</string>
+    <string name="auth_gls_no_network">Нет подключения к сети</string>
+    <string name="auth_gls_no_network_help">Возможно, это временная неполадка или ваше устройство Android не поддерживает передачу данных. Подключитесь к мобильной сети или сети Wi-Fi и повторите попытку.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Похоже, возникла временная неполадка. Повторите попытку или подключитесь к другой сети Wi-Fi.</string>
+    <string name="auth_gls_error_login_failed">"Неверное имя пользователя или пароль. Повторите попытку.
+
+Чтобы восстановить данные аккаунта, перейдите на страницу google.com/accounts/recovery/."</string>
+    <string name="auth_gls_creating_profile">Создание профиля…</string>
+    <string name="auth_gls_checking_account">Проверка доступности…</string>
+    <string name="auth_gls_is_not_available">Имя пользователя <b>^</b> недоступно</string>
+    <string name="auth_gls_suggestions_hint">Нажмите, чтобы увидеть имена</string>
+    <string name="auth_gls_suggest_username_next_button_label">Изменить имя пользователя</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> содержит менее 6 или более 30 символов.</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> не содержит букв.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" может содержать только буквы,
+цифры и точки."</string>
+    <string name="auth_gls_alternatives_list_title">Предлагаемые имена пользователя</string>
+    <string name="auth_gls_sync_item_title">Синхронизировать %s</string>
+    <string name="auth_gls_edit_text_help">Чтобы начать ввод, нажмите на любое текстовое поле</string>
+    <string name="auth_gls_sync_intro_title">Синхронизация аккаунтов</string>
+    <string name="auth_google_settings_header_title">Конфиденциальность</string>
+    <string name="auth_maps_settings_title">Карты и Локатор</string>
+    <string name="auth_location_settings_title">Доступ к моим геоданным</string>
+    <string name="auth_search_settings_title">Поиск</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_ads_settings_title">Реклама</string>
+    <string name="auth_location_network_based">По координатам сети</string>
+    <string name="auth_location_neighborhood_level">Разрешить отправку анонимных данных о местоположении и позволить приложениям определять его с помощью Wi-Fi и мобильных сетей</string>
+    <string name="auth_use_location_title">Местоположение и Google Поиск</string>
+    <string name="auth_use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
+    <string name="appstate_sync_label">Данные приложений</string>
+    <string name="appstate_clear_app_data_dialog_title">Удалить данные приложений?</string>
+    <string name="appstate_clear_app_data_dialog_description_multi_account">Вы собираетесь удалить все данные приложений сторонних разработчиков, сохраненные в этом аккаунте Google. После этого они станут недоступны на всех ваших устройствах.</string>
+    <string name="appstate_clear_app_data_dialog_description_single_account">Вы собираетесь удалить все данные приложений сторонних разработчиков, сохраненные в аккаунте %1$s. После этого они станут недоступны на всех ваших устройствах.</string>
+    <string name="appstate_deleting_app_data">Удаление данных приложений…</string>
+    <string name="appstate_could_not_delete_data">Не удалось удалить данные.</string>
+    <string name="googleads">Google Реклама</string>
+    <string name="admob_ads_checkbox">Персонализировать рекламу в приложениях</string>
+    <string name="admob_ads_description">"Настройте персонализацию рекламы Google в приложениях на этом устройстве.
+&lt;a href=%1$s>Подробнее…&lt;/a>"</string>
+    <string name="common_google_play_services_install_title">Установите Сервисы Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+    <string name="common_google_play_services_install_text_tablet">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_enable_title">Включите Сервисы Google Play</string>
+    <string name="common_google_play_services_enable_text">Для работы этого приложения требуется включить Сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_update_title">Обновите Сервисы Google Play</string>
+    <string name="common_google_play_services_update_text">Для работы этого приложения требуется обновить Сервисы Google Play.</string>
+    <string name="common_google_play_services_unknown_issue">Неизвестная ошибка с Сервисами Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Сервисы Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Сервисы Google Play, необходимые для работы некоторых приложений, не поддерживаются на вашем устройстве. Обратитесь к производителю.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти в аккаунт Google</string>
+    <string name="auth_client_using_bad_version_title">Версия сервисов Google Play неисправна</string>
+    <string name="auth_client_needs_enabling_title">Для работы приложения требуется включить сервисы Google Play</string>
+    <string name="auth_client_needs_installation_title">Для работы приложения требуется установить сервисы Google Play</string>
+    <string name="auth_client_needs_update_title">Для работы приложения требуется обновить сервисы Google Play</string>
+    <string name="auth_client_play_services_err_notification_msg">Ошибка сервисов Google Play</string>
+    <string name="auth_client_requested_by_msg">Запрос от приложения \"%1$s\"</string>
+</resources>

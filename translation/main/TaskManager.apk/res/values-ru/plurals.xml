@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="total_program">
+        <item quantity="other">Всего приложений: %1$d</item>
+        <item quantity="one">Всего приложений: %1$d</item>
+    </plurals>
+    <plurals name="not_exist_unused_app_content">
+        <item quantity="other">Нет загруженных приложений, не используемых в течение %1$d месяцев</item>
+        <item quantity="one">Нет загруженных приложений, не используемых в течение %1$d месяца</item>
+    </plurals>
+    <plurals name="option_unused_setting_period_content">
+        <item quantity="other">Загруженные приложения, не используемые в течение %1$d месяцев, будут отнесены к неиспользуемым приложениям</item>
+        <item quantity="one">Загруженные приложения, не используемые в течение %1$d месяца, будут отнесены к неиспользуемым приложениям</item>
+    </plurals>
+    <plurals name="option_unused_setting_period_content_test">
+        <item quantity="other">Загруженные приложения, не используемые в течение %1$d0 минут, будут отнесены к неиспользуемым приложениям</item>
+        <item quantity="one">Загруженные приложения, не используемые в течение %1$d0 минут, будут отнесены к неиспользуемым приложениям</item>
+    </plurals>
+    <plurals name="unused_noti_title">
+        <item quantity="other">Неиспользуемых приложений: %1$d.</item>
+        <item quantity="one">1 неиспользуемое приложение.</item>
+    </plurals>
+    <plurals name="unused_noti_content_test">
+        <item quantity="other">Нажмите, чтобы увидеть приложения, которые не использовались %1$d0 мин.</item>
+        <item quantity="one">Нажмите, чтобы увидеть приложения, которые не использовались %1$d0 мин.</item>
+    </plurals>
+    <plurals name="unused_noti_content">
+        <item quantity="other">Нажмите, чтобы увидеть приложения, которые не использовались %1$d месяца(-ев).</item>
+        <item quantity="one">Нажмите, чтобы увидеть приложения, которые не использовались %1$d месяц.</item>
+    </plurals>
+</resources>

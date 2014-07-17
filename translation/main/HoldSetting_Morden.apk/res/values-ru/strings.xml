@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Morden hold setting</string>
+    <string name="MordenActivity_name">Настройка ссылок заставки Morden</string>
+    <string name="Button_ApplyDefault_str">По умолчанию</string>
+    <string name="TextView_Help_str">Ярлыки можно сбросить, нажав каждый значок.</string>
+    <string name="TextView_Question">Вопрос</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="Cancel">Отмена</string>
+    <string name="TextView_Question_Setdefault">"Ярлыки изменились.
+Применить ярлыки по умолчанию?"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="polaroid_skyfonts_path">
+        <item>/system/fonts/DroidSansFallback.ttf</item>
+    </string-array>
+    <string-array name="polaroid_skyfonts_name">
+        <item>@string/skyfont_name_android</item>
+    </string-array>
+</resources>

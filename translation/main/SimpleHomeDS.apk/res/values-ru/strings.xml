@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Упрощ. главный экран</string>
+    <string name="home">Главный экран</string>
+    <string name="uid_name">Android Core Apps</string>
+    <string name="folder_name">Папка</string>
+    <string name="chooser_wallpaper">Выбрать обои в</string>
+    <string name="wallpaper_instructions">Установить обои</string>
+    <string name="pick_wallpaper">Обои</string>
+    <string name="activity_not_found">Приложение не установлено.</string>
+    <string name="widgets_tab_label">Виджеты</string>
+    <string name="long_press_widget_to_add">Нажмите и удерживайте, чтобы выбрать виджет.</string>
+    <string name="market">Магазин</string>
+    <string name="external_drop_widget_error">Не удалось переместить элемент на этот главный экран.</string>
+    <string name="external_drop_widget_pick_title">Выберите виджет для создания</string>
+    <string name="rename_folder_label">Имя папки</string>
+    <string name="rename_folder_color_label">Цвет</string>
+    <string name="rename_folder_title">Изменить папку</string>
+    <string name="rename_action">OK</string>
+    <string name="cancel_action">Отмена</string>
+    <string name="menu_item_add_item">Добавить на главный экран</string>
+    <string name="group_applications">Прилож.</string>
+    <string name="group_shortcuts">Ярлыки</string>
+    <string name="group_widgets">Виджеты</string>
+    <string name="group_wallpapers">Обои</string>
+    <string name="completely_out_of_space">Нет места на главном экране</string>
+    <string name="out_of_space">Нет места на этом главном экране</string>
+    <string name="hotseat_out_of_space">Нет места на панели.</string>
+    <string name="invalid_hotseat_item">Слишком большой виджет для добавления на панель.</string>
+    <string name="shortcut_installed">Ярлык \"%s\" создан.</string>
+    <string name="shortcut_uninstalled">Ярлык \"%s\" удален.</string>
+    <string name="shortcut_duplicate">Ярлык \"%s\" уже существует.</string>
+    <string name="title_select_shortcut">Выбрать ярлык</string>
+    <string name="title_select_application">Выбрать приложение</string>
+    <string name="all_apps_button_label">Прилож.</string>
+    <string name="all_apps_home_button_label">Главный экран</string>
+    <string name="delete_zone_label_workspace">Удалить</string>
+    <string name="delete_zone_label_all_apps">Удалить</string>
+    <string name="delete_target_label">Удалить</string>
+    <string name="delete_target_uninstall_label">Удалить</string>
+    <string name="info_target_label">Сведения о приложении</string>
+    <string name="accessibility_search_button">Поиск</string>
+    <string name="accessibility_voice_search_button">Голос. поиск</string>
+    <string name="accessibility_all_apps_button">Прилож.</string>
+    <string name="accessibility_delete_button">Удалить</string>
+    <string name="delete_zone_label_all_apps_system_app">Удалить обновление</string>
+    <string name="menu_add">Добавить</string>
+    <string name="menu_manage_apps">Управ. приложениями</string>
+    <string name="menu_wallpaper">Обои</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_notifications">Уведомления</string>
+    <string name="menu_settings">Параметры системы</string>
+    <string name="menu_help">Справка</string>
+    <string name="cab_menu_delete_app">Удалить приложения</string>
+    <string name="cab_menu_app_info">Сведения о приложении</string>
+    <string name="cab_app_selection_text">Выбрано 1 приложение</string>
+    <string name="cab_widget_selection_text">Выбран 1 виджет</string>
+    <string name="cab_folder_selection_text">Выбрана 1 папка</string>
+    <string name="cab_shortcut_selection_text">Выбран 1 ярлык</string>
+    <string name="permlab_install_shortcut">установить ярлыки</string>
+    <string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без вмешательства пользователя.</string>
+    <string name="permlab_uninstall_shortcut">удалить ярлыки</string>
+    <string name="permdesc_uninstall_shortcut">Позволяет приложению удалять ярлыки без вмешательства пользователя.</string>
+    <string name="permlab_read_settings">считать настройки и ярлыки главного экрана</string>
+    <string name="permdesc_read_settings">Позволяет приложению считывать параметры и ярлыки на главном экране.</string>
+    <string name="permlab_write_settings">записать настройки и ярлыки главного экрана</string>
+    <string name="permdesc_write_settings">Позволяет приложению изменять параметры и ярлыки на главном экране.</string>
+    <string name="gadget_error_text">Сбой загрузки виджета</string>
+    <string name="uninstall_system_app_text">Это системное приложение, его нельзя удалить.</string>
+    <string name="dream_name">Rocket Launcher</string>
+    <string name="folder_hint_text">Папка без имени</string>
+    <string name="workspace_description_format">Главный экран %1$d</string>
+    <string name="default_scroll_format">Страница %1$d из %2$d</string>
+    <string name="workspace_scroll_format">Главный экран %1$d из %2$d</string>
+    <string name="apps_customize_apps_scroll_format">Страница приложений %1$d из %2$d</string>
+    <string name="apps_customize_widgets_scroll_format">Страница виджетов %1$d из %2$d</string>
+    <string name="workspace_cling_open_all_apps">Чтобы увидеть все приложения, нажмите на круг.</string>
+    <string name="all_apps_cling_title">Выберите несколько приложений</string>
+    <string name="all_apps_cling_add_item">Чтобы добавить приложение на главный экран, нажмите и удерживайте его.</string>
+    <string name="folder_cling_title">Упорядочение приложений с помощью папок</string>
+    <string name="folder_cling_move_item">Чтобы переместить приложение, нажмите и удерживайте его.</string>
+    <string name="folder_cling_create_folder">Чтобы создать новую папку на главном экране, поместите друг на друга ярлыки приложений.</string>
+    <string name="widgettray_cling_add_title">Добавление виджетов</string>
+    <string name="widgettray_cling_add_body">Чтобы добавить виджет на главный экран, нажмите на нужный виджет.</string>
+    <string name="widgettray_cling_add_body_01">Чтобы добавить виджет на главный экран, нажмите на нужный виджет.</string>
+    <string name="widgettray_cling_add_body_02">Сделав это, нажмите в любом месте экрана для завершения.</string>
+    <string name="widgettray_menu_tutorial">Советы</string>
+    <string name="shortcuts_group">Ярлыки</string>
+    <string name="clock_widget_title">Виджеты Часы</string>
+    <string name="music_widget_title">Виджеты Музыка</string>
+    <string name="skycalendar_widget_title">Виджеты Календарь</string>
+    <string name="skyweather_widget_title">Виджеты Прогноз погоды</string>
+    <string name="skycamera_widget_title">Виджеты Камера</string>
+    <string name="social_on_widget_title">Виджеты Social ON</string>
+    <string name="photoframe_widget_title">Виджеты Фотоальбом</string>
+    <string name="skybookmark_widget_title">Виджеты Закладки</string>
+    <string name="rss_reader_widget_title">Виджеты RSS-новости</string>
+    <string name="social_circle_widget_title">Виджеты Social Circle</string>
+    <string name="social_plus_widget_title">Виджеты Social Circle</string>
+    <string name="social_snapshot_widget_title">Виджеты Social Snapshot</string>
+    <string name="social_world_widget_title">Виджеты Social World</string>
+    <string name="clock_widget_title_kor">Часы (установлено)</string>
+    <string name="photoframe_widget_title_kor">Фотоальбом (установлено)</string>
+    <string name="skybookmark_widget_title_kor">Закладки (установлено)</string>
+    <string name="skycalendar_widget_title_kor">Календарь (установлено)</string>
+    <string name="skyweather_widget_title_kor">Прогноз погоды (установлено)</string>
+    <string name="skycamera_widget_title_kor">Мини-камера (установлено)</string>
+    <string name="rss_reader_widget_title_kor">RSS-новости (установлено)</string>
+    <string name="social_on_widget_title_kor">Social ON (установлено)</string>
+    <string name="social_circle_widget_title_kor">Social Circle (установлено)</string>
+    <string name="social_plus_widget_title_kor">Social Plus (установлено)</string>
+    <string name="social_snapshot_widget_title_kor">Social Snapshot (установлено)</string>
+    <string name="social_world_widget_title_kor">Social World (установлено)</string>
+    <string name="music_widget_title_kor">Музыка (установлено)</string>
+    <string name="loading_preview_icons">Загрузка значков предв. просмотра...</string>
+    <string name="folder_opened">Папка открыта, %1$d by %2$d</string>
+    <string name="folder_tap_to_close">Нажмите, чтобы закрыть папку</string>
+    <string name="folder_tap_to_rename">Нажмите, чтобы сохранить новое имя</string>
+    <string name="folder_closed">Папка закрыта</string>
+    <string name="folder_renamed">Имя папки изменено на %1$s</string>
+    <string name="folder_name_format">Папка: %1$s</string>
+    <string name="folder_duplicated_item">Такой ярлык уже существует, его нельзя отобразить дважды.</string>
+    <string name="shortcut_duplicated_item">Невозможно поместить одинаковые ярлыки в одну и ту же папку.</string>
+    <string name="folder_space_full">Превышено максимальное количество папок.</string>
+    <string name="title_add_shortcut">Добавить</string>
+    <string name="folder_exceed">Можно добавить до 12 приложений.</string>
+    <string name="custom_workspace_cling_title_1" />
+    <string name="custom_workspace_cling_description_1" />
+    <string name="custom_workspace_cling_title_2" />
+    <string name="custom_workspace_cling_description_2" />
+    <string name="scene_entry">Нажмите и удерживайте панель главного экрана для ее перемещения или удаления.</string>
+    <string name="scene_entry2">Нажмите кнопку Добавить для добавления новой панели главного экрана.</string>
+    <string name="scene_entry3">Невозможно переместить или удалить панели главного экрана. Главный экран заблокирован.</string>
+    <string name="scene_add">Новая панель</string>
+    <string name="scene_add2">Новая панель</string>
+    <string name="chang_default_screen">Главная панель изменена.</string>
+    <string name="home_screen_lock_sub">Главный экран заблокирован.</string>
+    <string name="home_screen_unlock_sub">Главный экран разблокирован.</string>
+    <string name="home_screen_lockicon_info">Дважды нажмите значок, чтобы временно разблокировать главный экран.</string>
+    <string name="object_arrange_out_of_space">На главных экранах нет свободного места.</string>
+    <string name="object_arrange_out_of_current_screen1">На главном экране нет свободного места. Перемещение на другой главный экран.</string>
+    <string name="object_arrange_out_of_current_screen2">На текущем главном экране нет свободного места. Перемещение на другой главный экран.</string>
+    <string name="object_arrange_out_of_current_screen3">Размер виджета не поддерживается.</string>
+    <string name="home_settings_name">Парам. главного экрана</string>
+    <string name="home_screen_items_lock">Блокировка главного экрана</string>
+    <string name="home_screen_items_lock_hint">Запрет на перемещение или удаление элементов и панелей главного экрана.</string>
+    <string name="home_screen_items_lock_noti1">Установлена блокировка главного экрана.</string>
+    <string name="home_screen_items_lock_noti2">Невозможно переместить элементы. Главный экран заблокирован.</string>
+    <string name="home_screen_items_lock_noti3">Невозможно переместить элементы или изменить значки. Главный экран заблокирован.</string>
+    <string name="home_screen_items_lock_popup_title">Главный экран заблокирован</string>
+    <string name="home_screen_items_lock_popup_msg">"Главный экран заблокирован.
+
+ Для его разблокировки воспользуйтесь меню"</string>
+    <string name="edit_homescreen_count">Изменить панели главного экрана</string>
+    <string name="edit_homescreen_count_hint">Изменение количества панелей и установка главной панели.</string>
+    <string name="icon_style">Стиль значков</string>
+    <string name="icon_style_hint_type1">Модерн (текущий)</string>
+    <string name="icon_style_hint_type2">Классика (текущий)</string>
+    <string name="icon_style_hint_type3">Стильный (текущий)</string>
+    <string name="icon_style_type1">Модерн</string>
+    <string name="icon_style_type2">Классика</string>
+    <string name="icon_style_type3">Стильный</string>
+    <string name="icon_style_info">Выберите стиль значков, который требуется применить ко всем стандартным ярлыкам. Главный экран будет перезапущен.</string>
+    <string name="screen_looping">Цикличность экранов</string>
+    <string name="screen_looping_hint">Позволяет переходить к первому экрану после последнего.</string>
+    <string name="show_tips">Советы</string>
+    <string name="show_tips_hint">Показать советы</string>
+    <string name="home_settings_cancel">Отмена</string>
+    <string name="fixed_wallpaper">Зафиксировать обои</string>
+    <string name="fixed_wallpaper_hint">Отображение одних и тех же обоев для всех главных экранов.</string>
+    <string name="fixed_wallpaper_enabled">Прокручивание обоев вкл.</string>
+    <string name="space">" "</string>
+    <string name="auto_screen_rotation">Автоповорот главного экрана</string>
+    <string name="auto_screen_rotation_hint">Позволяет изменять ориентацию главного экрана с книжной на альбомную.</string>
+    <string name="home_screen_grid_style">Разметка главного экрана</string>
+    <string name="home_screen_grid_style_hint_type1">Макет 4X4 (текущий)</string>
+    <string name="home_screen_grid_style_hint_type2">Макет 5X5 (текущий)</string>
+    <string name="transition_effect_tab1">Эффекты перехода</string>
+    <string name="transition_effect_tab2">Скорость перехода</string>
+    <string name="transition_effect_basic">Стандартный</string>
+    <string name="transition_effect_zoom">Масштабирование</string>
+    <string name="transition_effect_wave">Волна</string>
+    <string name="transition_effect_flipover">Переворот</string>
+    <string name="transition_effect_valley">Угол</string>
+    <string name="transition_effect_cubeout">Куб</string>
+    <string name="transition_effect_pageturn">Перелист. страниц</string>
+    <string name="transition_effect_pendulum">Маятник</string>
+    <string name="transition_effect_extrude">Вытеснение</string>
+    <string name="transition_effect_slidedown">Проведение вниз</string>
+    <string name="transition_effect_wave1_0">Волна 1_0</string>
+    <string name="transition_effect_wave1_1">Волна 1_1</string>
+    <string name="transition_effect_wave1_2">Волна 1_2</string>
+    <string name="transition_effect_wave2_0">Волна 2_0</string>
+    <string name="transition_effect_wave2_1">Волна 2_1</string>
+    <string name="transition_effect_wave4_0">Волна 4_0</string>
+    <string name="transition_effect_wave4_1">Волна 4_1</string>
+    <string name="transition_effect_wave4_2">Волна 4_2</string>
+    <string name="transition_effect_cubein">"Куб
+(внутрь)"</string>
+    <string name="transition_effect_mobile">Мобильный</string>
+    <string name="transition_effect_roll">Вращение</string>
+    <string name="transition_effect_updown">Вверх-вниз</string>
+    <string name="transition_speed_1">Стандартный</string>
+    <string name="transition_speed_2">Быстрый</string>
+    <string name="transition_speed_3">Плавный</string>
+    <string name="transition_speed_4">Другое</string>
+    <string name="apps_sort_group">Группы</string>
+    <string name="apps_sort_apps">Прилож.</string>
+    <string name="apps_sort_alphabetical">По алфавиту</string>
+    <string name="apps_sort_downloaded">Загрузки</string>
+    <string name="apps_menu_search">Поиск</string>
+    <string name="apps_search_hint">Поиск приложений</string>
+    <string name="apps_menu_hidden">Показ. скрытые приложения</string>
+    <string name="apps_menu_edit">Изменить</string>
+    <string name="apps_menu_edit_button">ИЗМЕНИТЬ</string>
+    <string name="apps_menu_done_button">ГОТОВО</string>
+    <string name="apps_menu_edit_finished">Подтверждено.</string>
+    <string name="apps_menu_manage_group">Управление группами</string>
+    <string name="apps_menu_playstore">Play Store</string>
+    <string name="apps_menu_share">Отправ.</string>
+    <string name="apps_menu_bg">Изменить фон</string>
+    <string name="apps_menu_tutorial">Советы</string>
+    <string name="share_title">Я рекомендую это приложение</string>
+    <string name="share_search_hint">Поиск приложений</string>
+    <string name="share_search_toast">Выберите приложение, которое требуется отправить.</string>
+    <string name="apps_search_denied">Поиск невозможен во время использования другого режима.</string>
+    <string name="apps_search_noresult">Ничего не найдено</string>
+    <string name="share_popup_title">Отправить через</string>
+    <string name="share_max_selected">Можно выбрать до 5 приложений.</string>
+    <string name="share_none_selected">Выберите приложение, которое требуется отправить.</string>
+    <string name="apps_no_sharable">Нет приложений для отправки.</string>
+    <string name="apps_no_sharable_sub">"Отправить можно только загруженные
+приложения"</string>
+    <string name="remove_not_permitted">Удаление приложения запрещено.</string>
+    <string name="apps_menu_theme">Изменить значки</string>
+    <string name="no_downloaded_apps">Нет загруженных приложений</string>
+    <string name="edit_mode_enter_group">Просмотр сведений, перемещение, удаление или скрытие.</string>
+    <string name="edit_mode_enter">Нажмите значок для просмотра сведений, удаления или скрытия.</string>
+    <string name="edit_mode_enter2">Просмотр сведений, удаление или скрытие.</string>
+    <string name="edit_mode_enter_land">"Нажмите
+или
+перетяните"</string>
+    <string name="moved_to_menu">Сохраненные приложения перемещены в меню.</string>
+    <string name="apps_movetohome">"Добавление на главный экран.
+Нажав и удерживая значок, перетяните его сюда."</string>
+    <string name="apps_movetohome_click">Нажав и удерживая значок, перетяните его сюда.</string>
+    <string name="moved_not_permitted_on_menu">Невозможно переместить приложения, отсортированные по имени или находящиеся на страницах загрузки</string>
+    <string name="only_download_app_movable">Можно переместить только загруженные приложения.</string>
+    <string name="apps_isloading">Загрузка… Попробуйте позже.</string>
+    <string name="download_title">Загруженные приложения</string>
+    <string name="apps_edit_uninstall">Удалить</string>
+    <string name="apps_edit_hide">Скрыть</string>
+    <string name="apps_edit_unhide">Показать</string>
+    <string name="apps_edit_appinfo">Сведения</string>
+    <string name="apps_hiddeninfo">Нажмите значок для просмотра сведений, удаления или отображения.</string>
+    <string name="apps_hiddeninfo2">Выберите приложение, которое нужно показать.</string>
+    <string name="apps_folder_exceed">Можно добавить до 12 приложений.</string>
+    <string name="apps_hidden_done">Скрыть приложения.</string>
+    <string name="apps_unhidden_done">Показать приложения.</string>
+    <string name="apps_hidden_title">Скрытые приложения</string>
+    <string name="apps_nohidden">Нет скрытых приложений</string>
+    <string name="apps_hidden_full">Меню скрытых приложений заполнено.</string>
+    <string name="warning_apps_overload">Невозможно показать все приложения. Установлено слишком много приложений. Удалите ненужные приложения и повторите попытку.</string>
+    <string name="apps_no_editable_app">Нет приложений, которые можно изменить.</string>
+    <string name="apps_screen_full">На экранах нет свободного места.</string>
+    <string name="apps_multicheck_info">Выберите приложение, которое нужно добавить в папку</string>
+    <string name="apps_multicheck_cnt_info">" Выбрано"</string>
+    <string name="apps_exceed_max_page">Невозможно создать новую страницу. Превышено макс. количество страниц в меню приложений.</string>
+    <string name="apps_empty_page_text_name_apps_sort">Все значки перемещены в меню скрытых приложений.</string>
+    <string name="apps_app_located_empty_page">Невозможно добавить страницу. Меню приложений перемещено в свободную область.</string>
+    <string name="apps_edit_mode_enter_apps_sort">Просмотр сведений, удаление или скрытие. Нажмите и перетяните, чтобы переместить или создать папку.</string>
+    <string name="apps_multi_noapps">Все приложения перемещены в папки.</string>
+    <string name="apps_search_voice">Говорите</string>
+    <string name="apps_folder_kt">KT</string>
+    <string name="apps_folder_communication">Связь</string>
+    <string name="apps_folder_tools">Средства</string>
+    <string name="apps_folder_multimedia">Мультимедиа</string>
+    <string name="apps_folder_manage">Управление</string>
+    <string name="theme_home_restart">Главный экран будет перезагружен</string>
+    <string name="hotseat_button_settings_label">"Настройки
+"</string>
+    <string name="hotseat_button_wallpaper_label">"Обои экрана
+блокировки"</string>
+    <string name="hotseat_button_widget_label">Виджеты</string>
+    <string name="hotseat_button_effects_label">Эффекты</string>
+    <string name="hotseat_button_home_theme_label">Тема главного экрана</string>
+    <string name="hotseat_button_icon_theme_label">Тема значков</string>
+    <string name="hotseat_button_tutorial_label">Советы</string>
+    <string name="hotseat_button_homesetting_label">Параметры главного экрана</string>
+    <string name="hotseat_button_menu_label">Прилож.</string>
+    <string name="invalid_space">Невозможно найти в этой области.</string>
+    <string name="softmenu_full">Невозможно добавить другое содержимое.</string>
+    <string name="all_apps_icon_can_not_be_placed_other_area">Значки приложений нельзя переместить в другую область.</string>
+    <string name="hotseat_info_btn_text">"Разместите здесь ярлыки и 
+папки."</string>
+    <string name="out_of_space_launcherbar">Нет места на этой панели запуска.</string>
+    <string name="apps_tutorial_title">Выбрать приложения</string>
+    <string name="apps_tutorial_1">"Чтобы добавить приложение на главный экран,
+нажмите и удерж. его."</string>
+    <string name="apps_tutorial_tab_title">Добавить группы</string>
+    <string name="apps_tutorial_tab_1">Создание групп для упорядочения приложений.</string>
+    <string name="apps_tutorial_menu_title">Меню</string>
+    <string name="apps_tutorial_menu_1">"Нажм. клав. меню, чтобы просм. 
+доступ. функции как поиск, общий доступ и т. д."</string>
+    <string name="apps_tutorial_edit_title">Изменить порядок приложений</string>
+    <string name="apps_tutorial_edit_1">Нажмите и удерживайте приложение, а затем перетяните его в нужное место.</string>
+    <string name="apps_tutorial_edit_title_2">Полезные параметры</string>
+    <string name="apps_tutorial_edit_2">"Нажмите на приложение, чтобы просмотреть 
+допол. параметры."</string>
+    <string name="cling_back">Назад</string>
+    <string name="cling_next">Далее</string>
+    <string name="folder_cling_title1">Создание папки</string>
+    <string name="folder_cling_text1">Чтобы создать новую папку, нажмите и удерживайте значок ярлыка, а затем поместите его поверх других значков.</string>
+    <string name="folder_cling_title2">Дополнительное пространство для ярлыков</string>
+    <string name="folder_cling_text2">Проведите по панели влево или вправо, чтобы добавить дополнительные ярлыки.</string>
+    <string name="home_option_cling_title">Меню</string>
+    <string name="home_option_cling_text1">Нажмите клавишу меню для просмотра параметров главного экрана и других параметров.</string>
+    <string name="home_option_cling_menu_widget">"Добавить
+виджет"</string>
+    <string name="home_option_cling_menu_wallpaper">"Изменить
+обои"</string>
+    <string name="home_option_cling_menu_hometheme">"Изменить
+тему"</string>
+    <string name="home_option_cling_menu_effect">"Изменить
+эффект"</string>
+    <string name="home_option_cling_menu_homescreen">"Управление
+главным экраном"</string>
+    <string name="home_option_cling_menu_tutorial">"Просмотр советов для главного
+экрана"</string>
+    <string name="home_option_cling_menu_settings">"Перейти к меню
+Параметры"</string>
+    <string name="vzw_cling_text_swipe_down">Проведение вниз</string>
+    <string name="vzw_cling_text_swipe_down_details">"Проведите вниз, чтобы просмотреть уведомления
+и ярлыки меню Параметры."</string>
+    <string name="vzw_cling_text_open_all_apps">Чтобы увидеть все приложения, нажмите на круг.</string>
+    <string name="vzw_cling_text_more_space">Дополнительное пространство для ярлыков</string>
+    <string name="vzw_cling_text_more_space_details">Проведите по панели влево или вправо, чтобы добавить дополнительные ярлыки.</string>
+    <string name="vzw_cling_text_menu_details">Нажмите клавишу меню для просмотра параметров главного экрана и устройства.</string>
+    <string name="change">Изменить</string>
+    <string name="deco">Декомпрессия</string>
+    <string name="template_isloading">Загрузка…</string>
+    <string name="template_apply">Изменено.</string>
+    <string name="set_blind_home">Значки скрыты.</string>
+    <string name="reset_blind_home">Значки показаны.</string>
+    <string name="olleh_app_folder_name">olleh app folder</string>
+    <string name="olleh_app_folder">Olleh App</string>
+    <string name="apps_folder_noneditable">Невозможно изменить имя этой папки.</string>
+    <string name="manage_app_folder">Управление</string>
+    <string name="contacts">Люди</string>
+    <string name="vvm">Голосовая почта</string>
+    <string name="cling_dismiss">Далее</string>
+    <string name="cliing_back">Назад</string>
+    <string name="cliing_ok">OK</string>
+    <string name="workspace_cling_title">Погода</string>
+    <string name="workspace_cling_move_item">"Просмотр прогноза погоды и времени.
+Чтобы перейти к меню прогноза погоды, нажмите на
+панель."</string>
+    <string name="cling_title_direct_dial">Быстрый вызов</string>
+    <string name="cling_direct_dial">"Нажмите кнопку +, чтобы добавить контакты
+и получить возможность осуществлять их быстрый вызов."</string>
+    <string name="cling_navi_arrow1_text">"Для перехода на другие главные экраны
+нажимайте соответствующие значки."</string>
+    <string name="cling_title_move_to_screen">Перемещение на другие главные экраны</string>
+    <string name="cling_move_to_screen">Проведите влево или вправо по экрану для перехода на другой главный экран.</string>
+    <string name="cling_browser_title_text">Мини-галерея</string>
+    <string name="Cling_browser_text">"Сюда можно добавить свои любимые
+изображения."</string>
+    <string name="Cling_browser_text2">Для изменения закладок нажмите на них.</string>
+    <string name="Cling_camera_title_text">Камера</string>
+    <string name="Cling_camera_text">Нажмите, чтобы сделать снимок.</string>
+    <string name="Cling_shortcut_title_text">Избранное</string>
+    <string name="Cling_shortcut_text">Сюда можно добавить свои любимые приложения.</string>
+    <string name="Cling_shortcut_text2">Чтобы добавить ярлык, нажмите на него.</string>
+    <string name="Cling_notification_text">"Проведите вниз, чтобы просмотреть уведомления
+и ярлыки меню Параметры."</string>
+    <string name="Cling_dial_title_text">Набор номера</string>
+    <string name="Cling_dial_text">Здесь вы можете осуществлять вызовы и отправлять SMS.</string>
+    <string name="cling_menu_title_text">Меню</string>
+    <string name="cling_menu_text">"Нажмите клавишу меню для просмотра параметров главного
+экрана и других параметров."</string>
+    <string name="tutorial_pulldown">Проведение вниз</string>
+    <string name="cling_navi_text_title">Обзор страниц</string>
+    <string name="cling_menu_widget_text">"Добавление и удаление виджетов
+возможно только на \"Экране 
+пользовательских виджетов\"."</string>
+    <string name="cling_launcher_option_menu_wallpaper">"Изменить
+обои"</string>
+    <string name="cling_launcher_option_menu_tips">"Просмотр советов для главного
+экрана"</string>
+    <string name="cling_launcher_option_menu_settings">"Перейти к меню
+Настройки"</string>
+    <string name="cling_launcher_option_menu_widget">"Добавить
+виджеты"</string>
+    <string name="cling_locator_weather_and_dialer">"Прогноз погоды и
+экран набора номера"</string>
+    <string name="cling_locator_favorites_screen">"Экран
+ Избранное
+(Главный экран)"</string>
+    <string name="cling_locator_mini_gallery_screen">"Экран
+Мини-галерея"</string>
+    <string name="cling_locator_user_widget_screen">"Экран
+Пользовательский виджет"</string>
+    <string name="dialer">Телефон</string>
+    <string name="message">Сообщ.</string>
+    <string name="menu">Прилож.</string>
+    <string name="camera">Камера</string>
+    <string name="vzw_market">Прилож. Verizon</string>
+    <string name="skt_market">Прилож. T Store</string>
+    <string name="kt_market">Прилож. olleh</string>
+    <string name="lgu_market">Прилож. U+</string>
+    <string name="google_market">Play Store</string>
+    <string name="setting_btn">Установка</string>
+    <string name="sky_market">SKY Market</string>
+    <string name="market_text">Поиск и загрузка дополнительных приложений</string>
+    <string name="simple_mode">Стандартный режим</string>
+    <string name="help">Справка</string>
+    <string name="apps_menu_type">Режим отображения</string>
+    <string name="str_listtype">Список</string>
+    <string name="str_gridtype">Сетка</string>
+    <string name="str_browser">Браузер</string>
+    <string name="str_directcall">Быст.наб</string>
+    <string name="str_shortcut">Ярлыки</string>
+    <string name="wallpaper_widget_txt">Нажмите здесь, чтобы установить изображение.</string>
+    <string name="voicerecogntion_cling_title">Список команд главного меню</string>
+    <string name="voicerecogntion_cling_content_title1">Открыть приложение</string>
+    <string name="voicerecogntion_cling_content_text1_1">\"앱 이름\", \"앱 이름 열기\"</string>
+    <string name="voicerecogntion_cling_content_text1_2">Example)\"전화\", \"전화 열기\"</string>
+    <string name="voicerecogntion_cling_content_title2">Воспроизвести музыку</string>
+    <string name="voicerecogntion_cling_content_text2_1">\"음악 듣기\", \"음악 재생\",</string>
+    <string name="voicerecogntion_cling_content_text2_2">\"뮤직 듣기\", \"뮤직 재생\"</string>
+    <string name="voicerecogntion_cling_content_title3">Просмотреть список команд</string>
+    <string name="voicerecogntion_cling_content_text3_1">\"도움말\", \"단어장\", \"헬프\"</string>
+    <string name="voicerecogntion_cling_content_title4">Переход на главный экран с других экранов</string>
+    <string name="voicerecogntion_cling_content_text4_1">\"홈으로\", \"뒤로\"</string>
+</resources>

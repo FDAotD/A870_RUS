@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Добро пожаловать в SkySearchWidetActivity!</string>
+    <string name="app_name">Поиск в Google</string>
+    <string name="tip_title">Советы</string>
+    <string name="sub_a">"парам. расшир. поиска.
+
+"</string>
+    <string name="sub_b">"РАСШИРЕННЫЙ ПОИСК
+"</string>
+    <string name="sub_c">"- Экскл. парам. Vega и поиск вручную
+- Воспользуйтесь разд. "</string>
+    <string name="sub_d">\"Конкр. парам.\"</string>
+    <string name="sub_e">" в меню \"Парам. поиска в Google\", чтобы найти необх. парам. чтобы найти конкретный параметр.
+- Результаты поиска будут отображены в разделе \"Поиск на устройстве\"."</string>
+    <string name="button_a">"   Больше не показ. это сообщ."</string>
+    <string name="button_b">OK</string>
+    <string name="sub_firstline_1">"Перейдите к меню "</string>
+    <string name="sub_firstline_2">" > Параметры и выб. доп."</string>
+</resources>

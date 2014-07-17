@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flashlight Widget</string>
+    <string name="widget_name">Фонарик</string>
+    <string name="Warning_Text">Время работы батареи может быть сокращено в результате использования фонарика</string>
+    <string name="error">Не удалось открыть Flashlight Widget. Пожалуйста, повторите попытку.</string>
+    <string name="battery_low">Фонарик будет закрыт из-за низкого заряда батареи.</string>
+    <string name="battery_low_for_entry">Невозмочно включить Фонарик из-за низкого заряда батареи.</string>
+    <string name="error_disable_camera">В камере ограничение на использование, нельзя использовать фонарик виджет.</string>
+    <string name="error_app_crash">Закройте другие приложения камеры и попробуйте еще раз.</string>
+</resources>

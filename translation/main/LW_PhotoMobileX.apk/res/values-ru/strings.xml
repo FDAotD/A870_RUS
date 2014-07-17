@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photo Mobile LiveWallpaper</string>
+    <string name="service_label">Photo Mobile</string>
+    <string name="setting_label">Параметры Photo Mobile</string>
+    <string name="strTooMuchSelect">Выберите до 7 изображений.</string>
+    <string name="strNoSelectImage">Выберите не менее 1 изображения.</string>
+    <string name="service_description">Использование разных изображений для 7 рамок.</string>
+    <string name="str_loading">Загрузка...</string>
+    <string name="reset_text">Все выбранные фотографии отменены.</string>
+    <string name="set_screen">Задайте изображения для каждой рамки</string>
+    <string name="not_support_format">Недопустимое изображение</string>
+    <string name="ok">Подтвердить</string>
+    <string name="picture_map">Picture Map</string>
+    <string name="reset">Сбросить</string>
+</resources>

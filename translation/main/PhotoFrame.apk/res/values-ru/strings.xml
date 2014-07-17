@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фоторамка</string>
+    <string name="no_sd_card">SD карта извлечена</string>
+    <string name="no_usb_storage">USB-накопитель отключен</string>
+    <string name="media_scanner_running">Сканер медиа работает..</string>
+    <string name="loading_new">Загрузка новых альбомов и фотографий</string>
+    <string name="low_battery">Низкий уровень заряда батареи</string>
+    <string name="loading">Загрузка...</string>
+    <string name="no_items">В Вашей коллекции нет фотографий</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_screen_type_entries">
+        <item>Отдельное изображение</item>
+        <item>Папка с изображ.</item>
+    </string-array>
+    <string-array name="category">
+        <item>Внутренняя память</item>
+        <item>Карта памяти SD</item>
+    </string-array>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_items">
+        <item>Название</item>
+        <item>Дата</item>
+        <item>Избранное</item>
+    </string-array>
+    <string-array name="sort_rule">
+        <item>По возрастанию</item>
+        <item>По убыванию</item>
+    </string-array>
+    <string-array name="sort_list_items">
+        <item>Дата (по возрастанию)</item>
+        <item>Дата (по убыванию)</item>
+        <item>Название (по возрастанию)</item>
+        <item>Название (по убыванию)</item>
+        <item>Избранное</item>
+    </string-array>
+    <string-array name="alarm_menu">
+        <item>Дата</item>
+        <item>Время</item>
+        <item>Будильник</item>
+    </string-array>
+    <string-array name="alarm_mode">
+        <item>Мелодия звонка</item>
+        <item>Вибрация</item>
+        <item>Вибрация/мелодия звонка (для всех)</item>
+        <item>Без вибрации/мелодии звонка</item>
+    </string-array>
+    <string-array name="template_item">
+        <item>Эскиз 1</item>
+        <item>Эскиз 2</item>
+        <item>Бумажное письмо</item>
+        <item>Заметка1</item>
+        <item>Заметка2</item>
+        <item>Дневник</item>
+        <item>Публикация1</item>
+        <item>Публикация2</item>
+        <item>Каллиграфия</item>
+        <item>Клетка</item>
+        <item>Календарь</item>
+        <item>Рецепт</item>
+        <item>Список задач</item>
+        <item>Музыка</item>
+        <item>Кассовая книга</item>
+    </string-array>
+    <string-array name="template_item_basic">
+        <item>Эскиз 1</item>
+        <item>Эскиз 2</item>
+        <item>Заметка1</item>
+        <item>Заметка2</item>
+        <item>Дневник</item>
+        <item>Публикация1</item>
+        <item>Публикация2</item>
+        <item>Каллиграфия</item>
+        <item>Клетка</item>
+    </string-array>
+    <string-array name="template_item_theme">
+        <item>Бумажное письмо</item>
+        <item>Рецепт</item>
+        <item>Музыка</item>
+    </string-array>
+    <string-array name="add_newitem">
+        <item>Доб. страницу</item>
+        <item>Копир. страницу</item>
+        <item>Импорт</item>
+    </string-array>
+    <string-array name="add_folder_cover">
+        <item>Файл изображения</item>
+        <item>Сделать снимок</item>
+        <item>Рукопис. обложка</item>
+        <item>Изображение V Note</item>
+    </string-array>
+    <string-array name="add_theme">
+        <item>Стандартный</item>
+        <item>Тема</item>
+    </string-array>
+    <string-array name="add_clipart">
+        <item>Вспышка</item>
+        <item>Эмоция</item>
+        <item>Жизнь</item>
+        <item>Другое</item>
+        <item>Форма</item>
+    </string-array>
+</resources>

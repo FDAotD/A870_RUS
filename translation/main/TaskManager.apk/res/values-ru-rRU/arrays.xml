@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="taskitemselect_list_preference">
+        <item>Перейти к Приложению</item>
+        <item>Убить Приложение</item>
+        <item>Выберите приложение</item>
+        <item>Ничего не делать</item>
+    </string-array>
+    <string-array name="onekeykillmodeitemselect_list_preference">
+        <item>Убить все</item>
+        <item>Убить не входящих в белый список</item>
+        <item>Убить выбранные</item>
+    </string-array>
+</resources>

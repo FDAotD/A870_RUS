@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фотография</string>
+    <string name="first_gadget_title">Фотоальбом</string>
+    <string name="second_gadget_title">Альбом 3</string>
+    <string name="third_gadget_title">Альбом 4</string>
+    <string name="loading">Загрузка…</string>
+    <string name="deco">© Все права защищены</string>
+    <string name="first_black_gadget_title">Альбом 2</string>
+    <string name="no_image">Нажмите, чтобы выбрать изображения</string>
+    <string name="talkback_default">Фотовиджет</string>
+    <string name="noti_limitation">Отображается до 8 фотографий.</string>
+    <string name="gallery_disabled">"Галерея отключена.
+Проверьте параметры приложения."</string>
+</resources>

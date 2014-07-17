@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Добро пожаловать!</string>
+    <string name="app_name">Мини-V Note</string>
+    <string name="title">V Note</string>
+    <string name="all_clear">Очистить все</string>
+    <string name="tutorial">Создайте заметку с помощью пера X-pen. На какой бы поверхности вы его не использовали, рукописный текст будет отображен на экране устройства.</string>
+    <string name="config_title">Параметры</string>
+    <string name="enable_pen">Активировано перо X-pen.</string>
+    <string name="trans_text">Непрозрач.</string>
+    <string name="error_excute_skypen">V Note можно включить в параметрах системы.</string>
+    <string name="no_drawing">Введите текст.</string>
+    <string name="storageshortage">Память заполнена</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_field_item">
+        <item>Название</item>
+        <item>Исполнитель</item>
+        <item>Жанр</item>
+        <item>Альбом</item>
+    </string-array>
+    <string-array name="sort_item">
+        <item>Сортировка по названию</item>
+        <item>Сортировать по дате</item>
+    </string-array>
+</resources>

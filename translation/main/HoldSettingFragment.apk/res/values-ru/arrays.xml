@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Немедленно</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="background_entries">
+        <item>Фон галереи</item>
+        <item>Стандартный фон</item>
+        <item>Фон главного экрана</item>
+    </string-array>
+    <string-array name="background_simple_entries">
+        <item>Фон галереи</item>
+        <item>Стандартный фон</item>
+    </string-array>
+    <string-array name="effect_entries">
+        <item>Пузырьки</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="HoldThemeType">
+        <item>Android</item>
+        <item>Визуал.</item>
+        <item>Жест</item>
+    </string-array>
+    <string-array name="HoldEffectType">
+        <item>Куб</item>
+        <item>Подсветка</item>
+        <item>3D</item>
+    </string-array>
+</resources>

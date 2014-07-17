@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CALCULATOR">Калькулятор</string>
+    <string name="POPUP_MAXLEN">Превышение максимального количества цифр</string>
+    <string name="POPUP_OUTMAXLEN">"Приносим извинения.
+- Ошибка переполнения."</string>
+    <string name="POPUP_LIST_FULL">список заполнен</string>
+    <string name="MENU_SAVE">Сохранить</string>
+    <string name="MENU_DELETE">Удалить</string>
+    <string name="MENU_RENAME">Переименовать</string>
+    <string name="MENU_EDIT">Изменить</string>
+    <string name="MENU_LIST">Список</string>
+    <string name="MENU_SELECT_ALL">Выбрать все</string>
+    <string name="MENU_DESELECT_ALL">Отменить все</string>
+    <string name="NO_RESULT">Нет результатов</string>
+    <string name="CREATE_TITLE">Заголовок</string>
+    <string name="RENAME_TITLE">Изменить заголовок</string>
+    <string name="BUTTON_HISTORY">Журнал</string>
+    <string name="BUTTON_DONE">Готово</string>
+    <string name="BUTTON_OK">OK</string>
+    <string name="BUTTON_SAVE">Сохран.</string>
+    <string name="BUTTON_CANCEL">Отмена</string>
+    <string name="LIST_EMPTY">Пусто</string>
+    <string name="HISTORY_EMPTY">Пусто</string>
+    <string name="POPUP_INFOMATION">Информация</string>
+    <string name="POPUP_SAVE">Сохранено</string>
+    <string name="POPUP_SAVEQ">Сохранить?</string>
+    <string name="POPUP_DELETED">Удалено</string>
+    <string name="POPUP_DELETING">Удаление...</string>
+    <string name="POPUP_NOTCHECK">Элемент не выбран</string>
+    <string name="POPUP_INVALID_FORMAT">Недопустимый формат</string>
+    <string name="POPUP_CONVERT_FAIL">Сбой преобразования</string>
+    <string name="MENU_DEC">Десятичный</string>
+    <string name="MENU_HEX">Шестнадцатеричный</string>
+    <string name="TOTAL">Всего: \u0009</string>
+    <string name="NOTENOUGH_SPACE">Работа калькулятора будет завершена из-за недостаточного объема памяти</string>
+    <string name="EQUAL">Результат</string>
+    <string name="CLEAR">Очистить</string>
+</resources>

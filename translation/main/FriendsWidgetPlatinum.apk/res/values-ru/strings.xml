@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Друзья</string>
+    <string name="msg_full_text">Дальнейшее добавление невозможно</string>
+    <string name="msg_same">Такой номер телефона уже есть. Выберите другой номер телефона.</string>
+    <string name="msg_no_number">Невозможно запустить, поскольку не указан номер телефона контакта</string>
+    <string name="msg_canceled">Отменено</string>
+    <string name="msg_saved">Сохранено</string>
+    <string name="mainaddbtn">Добавить друга</string>
+    <string name="menuedit">Изменить</string>
+    <string name="menudone">Готово</string>
+    <string name="menucancel">Отмена</string>
+    <string name="text_empty">Пусто</string>
+    <string name="list_no_contents">Нет друзей</string>
+    <string name="contentDescription" />
+    <string name="btnedit_contentDescription">Параметры виджета \"Друзья\"</string>
+    <string name="widget_contentDescription">Виджет Друзья</string>
+    <string name="add_image_contentDescription">Виджет \"Друзья\" – добавить друга</string>
+    <string name="btnDone_contentDescription">Кнопка \"Готово\"</string>
+    <string name="btnCancel_contentDescription">Кнопка \"Отмена\"</string>
+    <string name="btnAdd_contentDescription">Кнопка \"Добавить\"</string>
+    <string name="btnDelete_contentDescription">Кнопка \"Удалить\"</string>
+</resources>

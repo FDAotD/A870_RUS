@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyLocationSender</string>
+    <string name="confirm_question">Вы хотите отправить текущее местоположение?</string>
+    <string name="failed_to_send_my_location">Не удалось отправить мое местоположение.</string>
+    <string name="finding_my_location">Поиск моего местоположения...</string>
+    <string name="no">Нет</string>
+    <string name="send_location">Отправить местоположение</string>
+    <string name="yes">Да</string>
+</resources>

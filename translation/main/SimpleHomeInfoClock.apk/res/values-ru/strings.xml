@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Инфор. часы на упрощ. главном экране</string>
+    <string name="alarm">Будильник</string>
+    <string name="no_event_today">Сегодня нет событий.</string>
+    <string name="no_title">(Без названия)</string>
+    <string name="all_day">Весь день</string>
+</resources>

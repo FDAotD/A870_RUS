@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d ч.</item>
+        <item quantity="one">1 ч.</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d ч.</item>
+        <item quantity="one">1 ч.</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">1 мин.</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">1 мин.</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d д.</item>
+        <item quantity="one">1 д.</item>
+    </plurals>
+    <plurals name="items_from">
+        <item quantity="other">%1$d элемент. из:</item>
+        <item quantity="one">1 элемент из:</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Последний поезд домой отходит через %2$s%1$d мин.%3$s</item>
+        <item quantity="one">Последний поезд домой отходит через %2$sминуту%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time_abbrev">
+        <item quantity="other">Последний поезд домой отходит через %1$d мин.</item>
+        <item quantity="one">Последний поезд домой отходит через 1 мин.</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">пробки %d мин.</item>
+        <item quantity="zero">без пробок</item>
+        <item quantity="one">пробки %d мин.</item>
+        <item quantity="two">пробки %d мин.</item>
+        <item quantity="few">пробки %d мин.</item>
+        <item quantity="many">пробки %d мин.</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">На %d мин. больше</item>
+        <item quantity="zero">без задержки</item>
+        <item quantity="one">На %d мин. больше</item>
+        <item quantity="two">На %d мин. больше</item>
+        <item quantity="few">На %d мин. больше</item>
+        <item quantity="many">На %d мин. больше</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">На %d мин. меньше</item>
+        <item quantity="zero">без пробок</item>
+        <item quantity="one">На %d мин. меньше</item>
+        <item quantity="two">На %d мин. меньше</item>
+        <item quantity="few">На %d мин. меньше</item>
+        <item quantity="many">На %d мин. меньше</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Обычное движение: задержка %d мин.</item>
+        <item quantity="zero">Обычное движение: без задержки</item>
+        <item quantity="one">Обычное движение: задержка %d мин.</item>
+        <item quantity="two">Обычное движение: задержка %d мин.</item>
+        <item quantity="few">Обычное движение: задержка %d мин.</item>
+        <item quantity="many">Обычное движение: задержка %d мин.</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">Подсказок: %d</item>
+        <item quantity="zero">Нет подсказок</item>
+        <item quantity="one">Подсказок: %d</item>
+        <item quantity="two">Подсказок: %d</item>
+        <item quantity="few">Подсказок: %d</item>
+        <item quantity="many">Подсказок: %d</item>
+    </plurals>
+    <plurals name="num_reviews">
+        <item quantity="other">Отзывов: %1$d</item>
+        <item quantity="zero">Отзывов нет</item>
+        <item quantity="one">Отзывов: 1</item>
+    </plurals>
+    <plurals name="miles">
+        <item quantity="other">&amp;lt;font face=sans-serif>%d&amp;lt;/font> мили</item>
+        <item quantity="one">&amp;lt;font face=sans-serif>1&amp;lt;/font> миля</item>
+    </plurals>
+    <plurals name="kilometers">
+        <item quantity="other">&amp;lt;font face=sans-serif>%d&amp;lt;/font> км</item>
+        <item quantity="one">&amp;lt;font face=sans-serif>1&amp;lt;/font> км</item>
+    </plurals>
+    <plurals name="stock_card_feedback_question_plural">
+        <item quantity="other">Отслеживать котировки этих акций?</item>
+        <item quantity="one">Отслеживать котировки этих акций?</item>
+    </plurals>
+    <plurals name="suggestions_feedback_question_plural">
+        <item quantity="other">Пригодились ли вам эти подсказки?</item>
+        <item quantity="one">Пригодилась ли вам эта подсказка?</item>
+    </plurals>
+    <plurals name="sports_card_feedback_question_plural">
+        <item quantity="other">Болеете за эти команды?</item>
+        <item quantity="one">Болеете за эту команду?</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">Напоминаний: %1$d</item>
+        <item quantity="one">Напоминаний: 1</item>
+    </plurals>
+    <plurals name="deleted">
+        <item quantity="other">Удалено: %1$d</item>
+    </plurals>
+    <plurals name="relevant_website_question_plural">
+        <item quantity="other">Пригодились ли вам эти веб-сайты?</item>
+        <item quantity="one">Пригодился ли вам этот веб-сайт?</item>
+    </plurals>
+    <plurals name="website_update_question_plural">
+        <item quantity="other">Интересны ли вам эти источники?</item>
+        <item quantity="one">Интересен ли вам этот источник?</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">Срок действия истекает через %1$d дн.</item>
+        <item quantity="one">Срок действия истекает завтра</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">Срок действия истекает через %1$d ч.</item>
+        <item quantity="one">Срок действия истекает через час</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">Срок действия истекает через %1$d мин.</item>
+        <item quantity="one">Срок действия истекает через минуту</item>
+    </plurals>
+    <plurals name="calendar_event_meeting_summary_with_attendees">
+        <item quantity="other">&lt;xliff id="subject" example="Meeting">%1$s&lt;/xliff> (&lt;xliff id="attendee_list" example="Paul, Peter, Jane, Hertha">%2$s&lt;/xliff>)</item>
+        <item quantity="one">&lt;xliff id="subject" example="Meeting">%1$s&lt;/xliff> (&lt;xliff id="attendee_list" example="Hertha">%2$s&lt;/xliff>)</item>
+    </plurals>
+    <plurals name="query_calendar_number_of_events">
+        <item quantity="other">Мероприятий: %d</item>
+        <item quantity="one">Мероприятий: 1</item>
+    </plurals>
+</resources>

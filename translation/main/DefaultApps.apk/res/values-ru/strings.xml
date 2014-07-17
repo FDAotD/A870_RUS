@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DefaultApps</string>
+    <string name="defaultapp_list">VEGA настройках приложения коллекция</string>
+    <string name="default_list">По умолчанию приложения</string>
+    <string name="defaultapp_title">DefaultApps</string>
+    <string name="default_reset">Удалить</string>
+    <string name="title_activity_default_apps">Удал. текущее станд. значение</string>
+    <string name="no_defaultapp">Нет стандарт.</string>
+</resources>

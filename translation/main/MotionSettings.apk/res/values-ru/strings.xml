@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MotionSettingsActivity!</string>
+    <string name="app_name">MotionSettings</string>
+    <string name="gesture_recog_title">Настройки распознавания движения</string>
+    <string name="gesture_recog">Распознавание движения</string>
+    <string name="gesture_recog_summary_on">Включить</string>
+    <string name="gesture_recog_summary_off">Отключить</string>
+    <string name="gesture_recog_help_title">Руководство</string>
+    <string name="gesture_recog_help_summary">Просмотреть руководство по использованию функции распознавания движения</string>
+    <string name="gesture_recog_advanced">Подробные настройки</string>
+    <string name="gesture_recog_music">Музыка</string>
+    <string name="gesture_recog_gal">Галерея</string>
+    <string name="gesture_recog_sms">Сообщения</string>
+    <string name="gesture_recog_call_recv">Голосовой/видео вызов</string>
+    <string name="gesture_recog_use_speakerphone">Использование громкой связи</string>
+    <string name="gesture_recog_use_speakerphone_summary_on">Использовать громкую связь при получении голосового/видео вызова</string>
+    <string name="gesture_recog_use_speakerphone_summary_off">Не использовать громкую связь при получении голосового/видео вызова</string>
+    <string name="gesture_recog_join_skyme">Закачка файла</string>
+    <string name="gesture_recog_join_skyme_summary_on">Использовать закачку файлов с распознаванием движения</string>
+    <string name="gesture_recog_join_skyme_summary_off">Не использовать закачку файлов с распознаванием движения</string>
+    <string name="gesture_recog_warn_msg">Вы должны выбрать хотя бы одно приложение</string>
+</resources>

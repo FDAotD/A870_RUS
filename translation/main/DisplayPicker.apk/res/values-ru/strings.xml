@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Выбрать обои из</string>
+    <string name="tab_title_gallery">Галерея</string>
+    <string name="tab_title_wallpaper">Обои</string>
+    <string name="tab_title_livewallpaper">Интерактивные обои</string>
+    <string name="tab_title_download">Загруженные обои</string>
+    <string name="tab_title_pattern">Рисунок</string>
+    <string name="live_wallpaper_empty">Нет интерактивных обоев</string>
+    <string name="no_sd_card">Нет карты памяти SD. Вставьте карту.</string>
+    <string name="activity_init_failed">Невозможно запустить.</string>
+    <string name="data_is_not_exist">Нет сохранен. содержимого</string>
+    <string name="no_download_wallpaper">Нет обоев</string>
+    <string name="no_gallery_wallpaper">В галерее нет изображений</string>
+    <string name="usb_used_unable_database">Используется как USB-накопитель. Невозможно загрузить базу данных.</string>
+    <string name="appsbg_transparent">Прозрачный</string>
+    <string name="appsbg_semi_transparent">Полупрозрачный</string>
+    <string name="couldnot_load">Не удалось загрузить</string>
+    <string name="cannot_find_gallery_app">Не удалось найти галерею</string>
+</resources>

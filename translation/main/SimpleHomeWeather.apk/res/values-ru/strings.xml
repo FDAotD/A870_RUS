@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_simple_name">Погода на главном экране</string>
+    <string name="widget_simple_set_local">Нажмите здесь, чтобы указать регион для отображения прогноза погоды.</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="update_date">Обновлено:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="current_position">Текущее местоположение</string>
+    <string name="popup_error_msg_connect">Подключитесь к сети Wi-Fi или проверьте состояние подключ. к сети передачи данных.</string>
+    <string name="popup_msg_update_fail">Сбой обновления.</string>
+    <string name="popup_msg_add_ok">Местоположение добавлено.</string>
+    <string name="popup_msg_add_fail">"Местоположение не добавлено.
+Повторите попытку"</string>
+    <string name="highTemp">Выс.</string>
+    <string name="lowTemp">Низк.</string>
+    <string name="accuweather">Accuweather</string>
+</resources>

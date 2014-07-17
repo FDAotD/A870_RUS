@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visual hold setting</string>
+    <string name="VisualActivity_name">Настройки ссылок заставки Visual</string>
+    <string name="Button_ApplyDefault_str">По умолчанию</string>
+    <string name="TextView_Help_str">Ярлыки можно сбросить, нажав каждое меню.</string>
+    <string name="TextView_Question">Вопрос</string>
+    <string name="TextView_Question_Setdefault">"Ярлыки изменились.
+Применить ярлыки по умолчанию?"</string>
+    <string name="VisualFolderSelecto_name">Настройки папок изображений</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="Cancel">Отмена</string>
+    <string name="Done">Готово</string>
+    <string name="Default_Image">Изображение по умолчанию</string>
+    <string name="Default_Image_Info">Если папка не выбрана, отображать изображения по умолчанию</string>
+    <string name="InternalMemory">Внутренняя память</string>
+    <string name="InternalMemory_Info1">Нет папки изображений</string>
+    <string name="InternalMemory_Info2">Нет папки изображений</string>
+    <string name="ExternalMemory">SD-карта</string>
+    <string name="ExternalMemory_Info1">Нет папки изображений</string>
+    <string name="ExternalMemory_Info2">Нет папки изображений</string>
+    <string name="InitInfo">Все изображения в выбранной папке отображаются на фоне заставки</string>
+    <string name="SaveInfo">Сохранено</string>
+</resources>

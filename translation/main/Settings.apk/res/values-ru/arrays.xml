@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Тихий океан</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>30 мин.</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Никогда</item>
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>30 мин.</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Сразу</item>
+        <item>5 сек</item>
+        <item>15 сек</item>
+        <item>30 сек</item>
+        <item>1 мин</item>
+        <item>2 мин</item>
+        <item>5 минут</item>
+        <item>10 мин</item>
+        <item>30 мин</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Мелкий</item>
+        <item>Обычный</item>
+        <item>Крупный</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Очень низкий</item>
+        <item>Низкий</item>
+        <item>Обычный</item>
+        <item>Высокий</item>
+        <item>Очень высокий</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Поиск...</item>
+        <item>Подключение...</item>
+        <item>Аутентификация...</item>
+        <item>Получение IP-адреса...</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение...</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Поиск...</item>
+        <item>Соединение с сетью %1$s…</item>
+        <item>Аутентификация в сети %1$s...</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s…</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Push-кнопка</item>
+        <item>PIN-код с обнаруженного устройства</item>
+        <item>PIN-код этого устройства</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Подключено</item>
+        <item>Приглашено</item>
+        <item>Сбой</item>
+        <item>Доступно</item>
+        <item>Вне диапазона</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>1 ч.</item>
+        <item>Без тайм-аута</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Слабый</item>
+        <item>Хороший</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Всегда</item>
+        <item>Только при питании от сети</item>
+        <item>Никогда (увеличивает расход трафика)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Всегда</item>
+        <item>Только при питании от сети</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Авто</item>
+        <item>Только 5 ГГц</item>
+        <item>Только 2,4 ГГц</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Подсчитать</item>
+        <item>Название приложения</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Пользовательские</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Нет</item>
+        <item>Вручную</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Выкл.</item>
+        <item>Оповещение</item>
+        <item>Виброзвонок</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP или CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Не указано</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Внутренняя память устройства</item>
+        <item>Съемная SD-карта</item>
+        <item>На усмотрение системы</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Небольшая</item>
+        <item>Средняя</item>
+        <item>Большая</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проверять только содержание DRM</item>
+        <item>Всегда проверять</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Не использовать проверку HDCP</item>
+        <item>Использовать проверку HDCP только для содержания DRM</item>
+        <item>Всегда использовать проверку HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Отключение анимации</item>
+        <item>Анимация (масштаб: 0,5x)</item>
+        <item>Анимация (масштаб: 1x)</item>
+        <item>Анимация (масштаб: 1,5x)</item>
+        <item>Анимация (масштаб: 2x)</item>
+        <item>Анимация (масштаб: 5x)</item>
+        <item>Анимация (масштаб: 10x)</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Отключение анимации</item>
+        <item>Анимация (масштаб: 0,5x)</item>
+        <item>Анимация (масштаб: 1x)</item>
+        <item>Анимация (масштаб: 1,5x)</item>
+        <item>Анимация (масштаб: 2x)</item>
+        <item>Анимация (масштаб: 5x)</item>
+        <item>Анимация (масштаб: 10x)</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Без анимации</item>
+        <item>Скорость 0,5x</item>
+        <item>Скорость 1x</item>
+        <item>Скорость 1,5x</item>
+        <item>Скорость 2x</item>
+        <item>Скорость 5x</item>
+        <item>Скорость 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Без фоновых процессов</item>
+        <item>Не более одного процесса</item>
+        <item>Не более 2 процессов</item>
+        <item>Не более 3 процессов</item>
+        <item>Не более 4 процессов</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>VPN-соединение по протоколу PPTP</item>
+        <item>VPN-соединение по протоколу L2TP/IPSec с общими ключами</item>
+        <item>VPN-подключение по протоколу L2TP/IPSec с использованием сертификатов</item>
+        <item>VPN-подключение IPSec с общими ключами и аутентификацией Xauth</item>
+        <item>VPN-подключение IPSec с использованием сертификатов и аутентификации Xauth</item>
+        <item>VPN-подключение IPSec с использованием сертификатов и комбинированной аутентификации</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Отключена</item>
+        <item>Инициализация...</item>
+        <item>Подключение...</item>
+        <item>Подключена</item>
+        <item>Время ожидания истекло</item>
+        <item>Сбой</item>
+    </string-array>
+    <string-array name="multi_sim_entries">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="multi_sim_summaries">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+        <item>Спрашивать</item>
+    </string-array>
+    <string-array name="multi_sim_summaries_voice">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+        <item>Спрашивать пользователя</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice_without_prompt">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="category">
+        <item>Главная</item>
+        <item>Поиск</item>
+        <item>Браузер</item>
+        <item>Эл. почта</item>
+        <item>Мультимедиа</item>
+        <item>Набор</item>
+        <item>и т. д.</item>
+    </string-array>
+    <string-array name="icon_glossary_description_skt">
+        <item>Выполняется вызов</item>
+        <item>Пропущенный вызов</item>
+        <item>Вызов на удержании</item>
+        <item>"Выполняется вызов (через гарнитуру Bluetooth) "</item>
+        <item>Во время вызова, звук откл.</item>
+        <item>Динамик вкл.</item>
+        <item>Получен новый автоответ</item>
+        <item>Новое сообщение</item>
+        <item>Не удалось получить сообщение</item>
+        <item>"Входящее уведомление о критической ситуации "</item>
+        <item>"Включен режим отладки USB "</item>
+        <item>"Подключено через USB "</item>
+        <item>Чтение, запись/использ. P2P-сети NFC откл.</item>
+        <item>"Чтение, запись/использ. P2P-сети NFC вкл. "</item>
+        <item>Загрузка контактов USIM</item>
+        <item>"Не установлена USIM-карта "</item>
+        <item>"Карта памяти SD извлечена "</item>
+        <item>"Карта памяти не распознана "</item>
+        <item>Карта памяти SD обнаружена</item>
+        <item>"Режим вибрации  "</item>
+        <item>Режим без звука</item>
+        <item>"Ошибка "</item>
+        <item>"Уведомление Play Store "</item>
+        <item>"Приложение, для которого доступно обновление "</item>
+        <item>"Доступна функция распознавания движения "</item>
+        <item>"Режим энергосбережения включен "</item>
+        <item>Уведомление о событии календаря</item>
+        <item>Уведомление о задаче</item>
+        <item>Функция Smart Beam вкл.</item>
+        <item>Выполняется звукозапись</item>
+        <item>Запись</item>
+        <item>Воспроизведение записанного файла</item>
+        <item>Приост. воспроиз. записанного файла или записи</item>
+        <item>Будильник установлен</item>
+        <item>Будильник поставлен на паузу</item>
+        <item>(Музыка) Воспроизведение</item>
+        <item>(Музыка) Приостановлено</item>
+        <item>Наушники подключены</item>
+        <item>Запрос воспроизведения медиафайлов или доступа к ним с других устройств</item>
+        <item>Музыка воспроизводится в приложении Media Link</item>
+        <item>"Функция GPS вкл. "</item>
+        <item>Ошибка во время синхронизации</item>
+        <item>Синхронизация</item>
+        <item>Текущая/завершенная загрузка</item>
+        <item>Текущая/завершенная загрузка</item>
+        <item>Bluetooth вкл., подключение между устройствами установлено</item>
+        <item>Bluetooth вкл., но подключение между устройствами не установлено</item>
+        <item>Доступна открытая сеть Wi-Fi</item>
+        <item>"Подключено к сети Wi-Fi (защищенная точка доступа) "</item>
+        <item>"Сеть Wi-Fi "</item>
+        <item>"Функция Wi-Fi Direct вкл. "</item>
+        <item>"Подключено к точке доступа Wi-Fi "</item>
+        <item>Bluetooth-модем подключен</item>
+        <item>"USB-модем и точка доступа Wi-Fi подключены "</item>
+        <item>"USB-модем подключен "</item>
+        <item>"Модем и точка доступа не используются "</item>
+        <item>Передача данных по сети 3G</item>
+        <item>Передача данных по сети LTE</item>
+        <item>Уровень сигнала: Нет сигнала</item>
+        <item>"Уровень сигнала "</item>
+        <item>"Роуминг в сети WCDMA "</item>
+        <item>Снимок экрана сохранен</item>
+        <item>Ошибка снимка экрана</item>
+        <item>Другие уведомления</item>
+        <item>Автономный режим вкл.</item>
+        <item>Состояние аккумулятора: уровень заряда аккумулятора</item>
+        <item>Состояние аккумулятора: аккумулятор разряжен</item>
+        <item>"Состояние аккумулятора: подключен к неизвестному источнику питания "</item>
+        <item>Состояние аккумулятора: заряжается</item>
+        <item>Состояние аккумулятора: зарядка отложена</item>
+        <item>На адрес эл. почты Yahoo пришло сообщ.</item>
+        <item>На адрес эл. почты Outlook пришло сообщ.</item>
+        <item>На адрес эл. почты Lycos пришло сообщ.</item>
+        <item>На адрес эл. почты Hotmail пришло сообщ.</item>
+        <item>На адрес эл. почты Exchange пришло сообщ.</item>
+        <item>На другой адрес эл. почты пришло сообщ.</item>
+        <item>Уведомление Smart Weather (дождь)</item>
+        <item>Уведомление Smart Weather (гроза)</item>
+        <item>Уведомление Smart Weather (сильный дождь, гроза)</item>
+        <item>Уведомление Smart Weather (снег)</item>
+        <item>Уведомление Smart Weather (дождь со снегом)</item>
+        <item>Уведомление Smart Weather (жара)</item>
+        <item>Уведомление Smart Weather (мороз)</item>
+        <item>Уведомление Smart Weather (снегопад)</item>
+        <item>"Подключено как устройство мультимедиа.  "</item>
+        <item>Подключено как камера.</item>
+        <item>"Подключено как внешняя память. "</item>
+        <item>"Подключено в режиме передачи данных на ПК. "</item>
+        <item>Общий доступ к экрану с помощью Miracast</item>
+        <item>При использовании Miracast указатель останавливается</item>
+        <item>При использовании Miracast указатель запускается</item>
+        <item>"Уведомление V Note "</item>
+    </string-array>
+    <string-array name="icon_glossary_description_kt">
+        <item>Выполняется вызов</item>
+        <item>Пропущенный вызов</item>
+        <item>Вызов на удержании</item>
+        <item>"Выполняется вызов (через гарнитуру Bluetooth) "</item>
+        <item>Во время вызова, звук откл.</item>
+        <item>Динамик вкл.</item>
+        <item>Получен новый автоответ</item>
+        <item>Новое сообщение</item>
+        <item>Не удалось получить сообщение</item>
+        <item>"Входящее уведомление о критической ситуации "</item>
+        <item>"Включен режим отладки USB "</item>
+        <item>"Подключено через USB "</item>
+        <item>Чтение, запись/использ. P2P-сети NFC откл.</item>
+        <item>"Чтение, запись/использ. P2P-сети NFC вкл. "</item>
+        <item>Загрузка контактов USIM</item>
+        <item>"Не установлена USIM-карта "</item>
+        <item>"Карта памяти SD извлечена "</item>
+        <item>"Карта памяти не распознана "</item>
+        <item>Карта памяти SD обнаружена</item>
+        <item>"Режим вибрации  "</item>
+        <item>Режим без звука</item>
+        <item>"Ошибка "</item>
+        <item>"Уведомление Play Store "</item>
+        <item>"Приложение, для которого доступно обновление "</item>
+        <item>"Доступна функция распознавания движения "</item>
+        <item>"Режим энергосбережения включен "</item>
+        <item>Уведомление о событии календаря</item>
+        <item>Уведомление о задаче</item>
+        <item>Функция Smart Beam вкл.</item>
+        <item>Выполняется звукозапись</item>
+        <item>Запись</item>
+        <item>Воспроизведение записанного файла</item>
+        <item>Приост. воспроиз. записанного файла или записи</item>
+        <item>Будильник установлен</item>
+        <item>Будильник поставлен на паузу</item>
+        <item>(Музыка) Воспроизведение</item>
+        <item>(Музыка) Приостановлено</item>
+        <item>Наушники подключены</item>
+        <item>Запрос воспроизведения медиафайлов или доступа к ним с других устройств</item>
+        <item>Музыка воспроизводится в приложении Media Link</item>
+        <item>"Функция GPS вкл. "</item>
+        <item>Ошибка во время синхронизации</item>
+        <item>Синхронизация</item>
+        <item>Текущая/завершенная загрузка</item>
+        <item>Текущая/завершенная загрузка</item>
+        <item>Bluetooth вкл., подключение между устройствами установлено</item>
+        <item>Bluetooth вкл., но подключение между устройствами не установлено</item>
+        <item>Доступна открытая сеть Wi-Fi</item>
+        <item>"Подключено к сети Wi-Fi (защищенная точка доступа) "</item>
+        <item>"Сеть Wi-Fi "</item>
+        <item>"Функция Wi-Fi Direct вкл. "</item>
+        <item>"Подключено к точке доступа Wi-Fi "</item>
+        <item>Bluetooth-модем подключен</item>
+        <item>"USB-модем и точка доступа Wi-Fi подключены "</item>
+        <item>"USB-модем подключен "</item>
+        <item>"Модем и точка доступа не используются "</item>
+        <item>Передача данных по сети 3G</item>
+        <item>Передача данных по сети LTE</item>
+        <item>Уровень сигнала: Нет сигнала</item>
+        <item>"Уровень сигнала "</item>
+        <item>"Роуминг в сети WCDMA "</item>
+        <item>Снимок экрана сохранен</item>
+        <item>Ошибка снимка экрана</item>
+        <item>Другие уведомления</item>
+        <item>Автономный режим вкл.</item>
+        <item>Состояние аккумулятора: уровень заряда аккумулятора</item>
+        <item>Состояние аккумулятора: аккумулятор разряжен</item>
+        <item>"Состояние аккумулятора: подключен к неизвестному источнику питания "</item>
+        <item>Состояние аккумулятора: заряжается</item>
+        <item>Состояние аккумулятора: зарядка отложена</item>
+        <item>На адрес эл. почты Yahoo пришло сообщ.</item>
+        <item>На адрес эл. почты Outlook пришло сообщ.</item>
+        <item>На адрес эл. почты Lycos пришло сообщ.</item>
+        <item>На адрес эл. почты Hotmail пришло сообщ.</item>
+        <item>На адрес эл. почты Exchange пришло сообщ.</item>
+        <item>На другой адрес эл. почты пришло сообщ.</item>
+        <item>Уведомление Smart Weather (дождь)</item>
+        <item>Уведомление Smart Weather (гроза)</item>
+        <item>Уведомление Smart Weather (сильный дождь, гроза)</item>
+        <item>Уведомление Smart Weather (снег)</item>
+        <item>Уведомление Smart Weather (дождь со снегом)</item>
+        <item>Уведомление Smart Weather (жара)</item>
+        <item>Уведомление Smart Weather (мороз)</item>
+        <item>Уведомление Smart Weather (снегопад)</item>
+        <item>"Подключено как устройство мультимедиа.  "</item>
+        <item>Подключено как камера.</item>
+        <item>"Подключено как внешняя память. "</item>
+        <item>"Подключено в режиме передачи данных на ПК. "</item>
+        <item>Общий доступ к экрану с помощью Miracast</item>
+        <item>При использовании Miracast указатель останавливается</item>
+        <item>При использовании Miracast указатель запускается</item>
+        <item>"Уведомление V Note "</item>
+    </string-array>
+    <string-array name="icon_glossary_description_lgu">
+        <item>Выполняется вызов</item>
+        <item>Пропущенный вызов</item>
+        <item>Вызов на удержании</item>
+        <item>"Выполняется вызов (через гарнитуру Bluetooth) "</item>
+        <item>VoLTE unavailable notification</item>
+        <item>Во время вызова, звук откл.</item>
+        <item>Динамик вкл.</item>
+        <item>Получен новый автоответ</item>
+        <item>Новое сообщение</item>
+        <item>Не удалось получить сообщение</item>
+        <item>"Входящее уведомление о критической ситуации "</item>
+        <item>"Включен режим отладки USB "</item>
+        <item>"Подключено через USB "</item>
+        <item>Чтение, запись/использ. P2P-сети NFC откл.</item>
+        <item>"Чтение, запись/использ. P2P-сети NFC вкл. "</item>
+        <item>Загрузка контактов USIM</item>
+        <item>"Не установлена USIM-карта "</item>
+        <item>"Карта памяти SD извлечена "</item>
+        <item>"Карта памяти не распознана "</item>
+        <item>Карта памяти SD обнаружена</item>
+        <item>"Режим вибрации  "</item>
+        <item>Режим без звука</item>
+        <item>"Ошибка "</item>
+        <item>"Уведомление Play Store "</item>
+        <item>"Приложение, для которого доступно обновление "</item>
+        <item>"Доступна функция распознавания движения "</item>
+        <item>"Режим энергосбережения включен "</item>
+        <item>Уведомление о событии календаря</item>
+        <item>Уведомление о задаче</item>
+        <item>Функция Smart Beam вкл.</item>
+        <item>Выполняется звукозапись</item>
+        <item>Запись</item>
+        <item>Воспроизведение записанного файла</item>
+        <item>Приост. воспроиз. записанного файла или записи</item>
+        <item>Будильник установлен</item>
+        <item>Будильник поставлен на паузу</item>
+        <item>(Музыка) Воспроизведение</item>
+        <item>(Музыка) Приостановлено</item>
+        <item>Наушники подключены</item>
+        <item>Запрос воспроизведения медиафайлов или доступа к ним с других устройств</item>
+        <item>Музыка воспроизводится в приложении Media Link</item>
+        <item>"Функция GPS вкл. "</item>
+        <item>Ошибка во время синхронизации</item>
+        <item>Синхронизация</item>
+        <item>Текущая/завершенная загрузка</item>
+        <item>Текущая/завершенная загрузка</item>
+        <item>LGU+ app download</item>
+        <item>LGU+ app download complete</item>
+        <item>LGU+ app download not complete</item>
+        <item>"Updates available in LGU+ app "</item>
+        <item>Bluetooth вкл., подключение между устройствами установлено</item>
+        <item>Bluetooth вкл., но подключение между устройствами не установлено</item>
+        <item>Доступна открытая сеть Wi-Fi</item>
+        <item>"Wi-Fi : Unknown level of quality (Open AP) "</item>
+        <item>"Wi-Fi : Unknown level of quality (Security AP) "</item>
+        <item>Wi-Fi : High quality (Open AP)</item>
+        <item>"Wi-Fi : High quality (Security AP) "</item>
+        <item>"Функция Wi-Fi Direct вкл. "</item>
+        <item>"Подключено к точке доступа Wi-Fi "</item>
+        <item>Bluetooth-модем подключен</item>
+        <item>"USB-модем и точка доступа Wi-Fi подключены "</item>
+        <item>"USB-модем подключен "</item>
+        <item>"Модем и точка доступа не используются "</item>
+        <item>Передача данных по сети 3G</item>
+        <item>Передача данных по сети 4G</item>
+        <item>Уровень сигнала: Нет сигнала</item>
+        <item>"Уровень сигнала "</item>
+        <item>"Роуминг в сети WCDMA "</item>
+        <item>Снимок экрана сохранен</item>
+        <item>Ошибка снимка экрана</item>
+        <item>Другие уведомления</item>
+        <item>Автономный режим вкл.</item>
+        <item>Состояние аккумулятора: уровень заряда аккумулятора</item>
+        <item>Состояние аккумулятора: аккумулятор разряжен</item>
+        <item>"Состояние аккумулятора: подключен к неизвестному источнику питания "</item>
+        <item>Состояние аккумулятора: заряжается</item>
+        <item>Состояние аккумулятора: зарядка отложена</item>
+        <item>На адрес эл. почты Yahoo пришло сообщ.</item>
+        <item>На адрес эл. почты Outlook пришло сообщ.</item>
+        <item>На адрес эл. почты Lycos пришло сообщ.</item>
+        <item>На адрес эл. почты Hotmail пришло сообщ.</item>
+        <item>На адрес эл. почты Exchange пришло сообщ.</item>
+        <item>На другой адрес эл. почты пришло сообщ.</item>
+        <item>Уведомление Smart Weather (дождь)</item>
+        <item>Уведомление Smart Weather (гроза)</item>
+        <item>Уведомление Smart Weather (сильный дождь, гроза)</item>
+        <item>Уведомление Smart Weather (снег)</item>
+        <item>Уведомление Smart Weather (дождь со снегом)</item>
+        <item>Уведомление Smart Weather (жара)</item>
+        <item>Уведомление Smart Weather (мороз)</item>
+        <item>Уведомление Smart Weather (снегопад)</item>
+        <item>"Подключено как устройство мультимедиа.  "</item>
+        <item>Подключено как камера.</item>
+        <item>"Подключено как внешняя память. "</item>
+        <item>"Подключено в режиме передачи данных на ПК. "</item>
+        <item>Общий доступ к экрану с помощью Miracast</item>
+        <item>При использовании Miracast указатель останавливается</item>
+        <item>При использовании Miracast указатель запускается</item>
+        <item>"Уведомление V Note "</item>
+    </string-array>
+    <string-array name="hd_voice_settings_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="hd_voice_settings_entries">
+        <item>Приоритетный режим</item>
+        <item>Запрещено</item>
+    </string-array>
+    <string-array name="volte_settings_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="volte_settings_entries">
+        <item>Приоритет: VoLTE</item>
+        <item>Приоритет: 3G</item>
+    </string-array>
+    <string-array name="hdcall_settings_list_title">
+        <item>Параметры исходящих вызов HD</item>
+    </string-array>
+    <string-array name="hdcall_settings_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="hdcall_settings_entries">
+        <item>Приоритет: HD</item>
+        <item>Приоритет: 3G</item>
+    </string-array>
+    <string-array name="auto_answer_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="auto_answer_mode_entries">
+        <item>Стандартный</item>
+        <item>За рулем</item>
+        <item>Встреча</item>
+        <item>Занятие</item>
+    </string-array>
+    <string-array name="summary_auto_answer_mode">
+        <item>Абонент не может ответить.</item>
+        <item>Абонент не может ответить, поскольку находится за рулем.</item>
+        <item>Абонент не может ответить, поскольку находится на встрече.</item>
+        <item>Абонент не может ответить, поскольку находится на занятии.</item>
+    </string-array>
+    <string-array name="auto_prefix_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="auto_prefix_mode_entries">
+        <item>Не использовать</item>
+        <item>Авт. код города</item>
+    </string-array>
+    <string-array name="dialer_gesture_entries">
+        <item>Без жестов</item>
+        <item>Жест: наклон</item>
+        <item>Жест: проведение</item>
+    </string-array>
+    <string-array name="dialer_gesture_summay">
+        <item>Обычный набор номера телефона без использования жестов</item>
+        <item>Доступ к номеру быстрого набора путем наклона устройства и осуществление вызова</item>
+        <item>Доступ к номеру быстрого набора путем проведения по экрану устройства и осуществление вызова</item>
+    </string-array>
+    <string-array name="dialer_style_entries">
+        <item>Белый (VEGA)</item>
+        <item>Глубокий черный</item>
+        <item>Обычный серый</item>
+    </string-array>
+    <string-array name="dialer_style_idx">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="caller_id_values">
+        <item>DEFAULT</item>
+        <item>HIDE</item>
+        <item>SHOW</item>
+    </string-array>
+    <string-array name="caller_id_entries">
+        <item>По умолчанию</item>
+        <item>Скрывать номер</item>
+        <item>Показывать номер</item>
+    </string-array>
+    <string-array name="callsettings_connection_sound_entries">
+        <item>Без звука</item>
+        <item>Звук 1</item>
+        <item>Звук 2</item>
+    </string-array>
+    <string-array name="callsettings_connection_sound_values">
+        <item></item>
+        <item>/system/media/audio/callconnect/sound1.ogg</item>
+        <item>/system/media/audio/callconnect/sound2.ogg</item>
+    </string-array>
+    <string-array name="callsettings_connection_sound_values_preview">
+        <item>пусто</item>
+        <item>/system/media/audio/callconnect/sound1_pre.ogg</item>
+        <item>/system/media/audio/callconnect/sound2_pre.ogg</item>
+    </string-array>
+    <string-array name="dial_motion_types_entries">
+        <item>Без жестов</item>
+        <item>Жест: наклон</item>
+        <item>Жест: проведение</item>
+    </string-array>
+    <string-array name="call_rejection_type_entries">
+        <item>Не используется</item>
+        <item>Отклонять все вызовы</item>
+        <item>Отклонение вызовов с определенных номеров</item>
+        <item>Прием вызовов с определенных номеров</item>
+    </string-array>
+    <string-array name="call_rejection_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="wifi_ap_time_limit_entries">
+        <item>Всегда вкл.</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>20 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+    </string-array>
+    <string-array name="wifi_ap_time_limit_values">
+        <item>0</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1200000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+    </string-array>
+    <string-array name="wifi_ap_channel_entries">
+        <item>Авто</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="wifi_ap_channel_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="wifi_p2p_group_wps_setup">
+        <item>Нажмите кнопку</item>
+    </string-array>
+    <string-array name="environment_list">
+        <item>General</item>
+        <item>City</item>
+        <item>Home</item>
+    </string-array>
+    <string-array name="environment_list_summary">
+        <item>The General Wi-Fi environment options</item>
+        <item>This area has a lot of Wi-Fi AP, so Wi-Fi connection will be disconnected more shortly.</item>
+        <item>This area has a few number of WiFi AP, so Wi-Fi connection will be used more longer.</item>
+    </string-array>
+    <string-array name="vibrate_pattern_entries">
+        <item>Стандартная</item>
+        <item>Увелич. продолжительности</item>
+        <item>Уменьш. продолжительности</item>
+        <item>От более к менее продолжительной</item>
+        <item>От менее к более продолжительной</item>
+    </string-array>
+    <string-array name="vibrate_pattern_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="vega_bell_entries">
+        <item>Без звука</item>
+        <item>Сигнал (классика)</item>
+        <item>Сигнал (колыбельная)</item>
+        <item>Сигнал (джаз)</item>
+        <item>Простой сигнал</item>
+        <item>Перед рассветом</item>
+        <item>Выше звезд</item>
+        <item>Показ мод</item>
+        <item>Откровение</item>
+        <item>Классический звонок</item>
+        <item>Душевный подъем</item>
+        <item>Загадка</item>
+        <item>Легкость</item>
+        <item>Лес</item>
+        <item>Счастливые Sky Land</item>
+        <item>Утро в раю</item>
+        <item>Приветствие</item>
+        <item>Свободный полет</item>
+        <item>Послушай меня</item>
+        <item>Кленовая аллея</item>
+        <item>Уличные музыканты</item>
+        <item>Музыка озер</item>
+        <item>Круглая планета</item>
+        <item>Закат в горах</item>
+        <item>Сладкие грезы</item>
+        <item>Время пить чай</item>
+        <item>Игрушечный поезд</item>
+        <item>Полет бабочки</item>
+        <item>Прогулка в облаках</item>
+        <item>Танец с птицами</item>
+        <item>Приветственная вечеринка</item>
+        <item>Мировая сеть</item>
+    </string-array>
+    <string-array name="arrivebell_items_1">
+        <item>VEGA</item>
+        <item>Станд. сигнал Android</item>
+        <item>Память</item>
+        <item>Сигнал завершения загрузки</item>
+    </string-array>
+    <string-array name="arrivebell_items_2">
+        <item>VEGA</item>
+        <item>Станд. сигнал Android</item>
+        <item>Память</item>
+    </string-array>
+    <string-array name="call_connection_sound_entries">
+        <item>Без звука</item>
+        <item>Звук 1</item>
+        <item>Звук 2</item>
+    </string-array>
+    <string-array name="call_connection_sound_values">
+        <item></item>
+        <item>/system/media/audio/callconnect/sound1.ogg</item>
+        <item>/system/media/audio/callconnect/sound2.ogg</item>
+    </string-array>
+    <string-array name="call_connection_sound_values_preview">
+        <item>пусто</item>
+        <item>/system/media/audio/callconnect/sound1_pre.ogg</item>
+        <item>/system/media/audio/callconnect/sound2_pre.ogg</item>
+    </string-array>
+    <string-array name="low_battery_sound_entries">
+        <item>Без звука</item>
+        <item>Сигнал 1</item>
+        <item>Сигнал 2</item>
+        <item>Сигнал 3</item>
+        <item>Отсутствие</item>
+    </string-array>
+    <string-array name="low_battery_sound_entries_user">
+        <item>Без звука</item>
+        <item>Сигнал 1</item>
+        <item>Сигнал 2</item>
+        <item>Сигнал 3</item>
+        <item>Отсутствие</item>
+        <item>Дополнительно</item>
+    </string-array>
+    <string-array name="low_battery_sound_values">
+        <item></item>
+        <item>/system/media/audio/lowbattery/beep1.ogg</item>
+        <item>/system/media/audio/lowbattery/beep2.ogg</item>
+        <item>/system/media/audio/lowbattery/Touch_Gesture_2_1_101018.ogg</item>
+        <item>/system/media/audio/lowbattery/voice_kor.ogg</item>
+    </string-array>
+    <string-array name="low_battery_sound_values_user">
+        <item></item>
+        <item>/system/media/audio/lowbattery/beep1.ogg</item>
+        <item>/system/media/audio/lowbattery/beep2.ogg</item>
+        <item>/system/media/audio/lowbattery/Touch_Gesture_2_1_101018.ogg</item>
+        <item>/system/media/audio/lowbattery/voice_kor.ogg</item>
+        <item></item>
+    </string-array>
+    <string-array name="silent_mode_entries">
+        <item>Звук</item>
+        <item>Без звука</item>
+        <item>Вибрация</item>
+    </string-array>
+    <string-array name="silent_mode_values">
+        <item>off</item>
+        <item>mute</item>
+        <item>vibrate</item>
+    </string-array>
+    <string-array name="mode_when_ringing_entries">
+        <item>Только мелодия звонка</item>
+        <item>мелодия звонка и вибрация</item>
+        <item>мелодия звонка с вибрацией</item>
+    </string-array>
+    <string-array name="mode_when_ringing_summaries">
+        <item></item>
+        <item></item>
+        <item>(только для стандартных мелодий звонка)</item>
+    </string-array>
+    <string-array name="mode_when_ringing_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

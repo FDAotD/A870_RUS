@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SkyComponent Resource</string>
+    <string name="cover_loading_message">Пожалуйста, дождитесь загрузки.</string>
+    <string name="cover_loading_title">Загрузка...</string>
+    <string name="hello">Hello World, Pantech_UI!</string>
+    <string name="lunar">Лунный</string>
+    <string name="popup_cancel">Отмена</string>
+    <string name="popup_close">Закрыть</string>
+    <string name="popup_minimize">Свернуть</string>
+    <string name="popup_no">Нет</string>
+    <string name="popup_ok">ОК</string>
+    <string name="popup_play">Воспроизвести</string>
+    <string name="popup_retrylater">"Повторить
+позже"</string>
+    <string name="popup_yes">Да</string>
+    <string name="solar">Солнечный</string>
+    <string name="tabtitle">заголовок вкладки</string>
+    <string name="loding">Загрузка...</string>
+    <string name="saving">Сохранение...</string>
+</resources>
